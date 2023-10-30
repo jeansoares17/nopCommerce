@@ -78,7 +78,7 @@ export default moment.defineLocale('zh-cn', {
         },
         sameElse: 'L',
     },
-    dayOfMonthOrdinalParse: /\d{1,2}(日|月|周)/,
+    dayOfMonthOrdinalParse: /\d{1,2}([日月周])/,
     ordinal: function (number, period) {
         switch (period) {
             case 'd':

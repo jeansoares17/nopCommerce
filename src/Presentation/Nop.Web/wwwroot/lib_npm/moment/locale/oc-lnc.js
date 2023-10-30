@@ -61,7 +61,7 @@ export default moment.defineLocale('oc-lnc', {
         y: 'un an',
         yy: '%d ans',
     },
-    dayOfMonthOrdinalParse: /\d{1,2}(r|n|t|è|a)/,
+    dayOfMonthOrdinalParse: /\d{1,2}([rntèa])/,
     ordinal: function (number, period) {
         var output =
             number === 1

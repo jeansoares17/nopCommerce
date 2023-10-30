@@ -160,7 +160,7 @@ tinymce.addI18n('da',{
 "Link...": "Link...",
 "Paste or type a link": "Inds\u00e6t eller skriv et link",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "URLen som du angav ser ud til at v\u00e6re en email adresse. \u00d8nsker du at tilf\u00f8je det kr\u00e6vede prefiks  mailto: ?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URLen som du angav ser ud til at v\u00e6re et eksternt link. \u00d8nsker du at tilf\u00f8je det kr\u00e6vede prefiks http:\/\/ ?",
+"The URL you entered seems to be an external link. Do you want to add the required https:\/\/ prefix?": "URLen som du angav ser ud til at v\u00e6re et eksternt link. \u00d8nsker du at tilf\u00f8je det kr\u00e6vede prefiks https:\/\/ ?",
 "Link list": "Link liste",
 "Insert video": "Inds\u00e6t video",
 "Insert\/edit video": "Inds\u00e6t\/ret video",

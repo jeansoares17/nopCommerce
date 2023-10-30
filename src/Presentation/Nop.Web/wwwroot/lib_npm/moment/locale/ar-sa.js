@@ -49,7 +49,7 @@ export default moment.defineLocale('ar-sa', {
         LLL: 'D MMMM YYYY HH:mm',
         LLLL: 'dddd D MMMM YYYY HH:mm',
     },
-    meridiemParse: /ص|م/,
+    meridiemParse: /[صم]/,
     isPM: function (input) {
         return 'م' === input;
     },

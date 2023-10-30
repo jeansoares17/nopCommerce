@@ -348,7 +348,7 @@ namespace Nop.Services.EuropaCheckVatService
         {
             if ((endpointConfiguration == EndpointConfiguration.checkVatPort))
             {
-                return new System.ServiceModel.EndpointAddress("http://ec.europa.eu/taxation_customs/vies/services/checkVatService");
+                return new System.ServiceModel.EndpointAddress("https://ec.europa.eu/taxation_customs/vies/services/checkVatService");
             }
             throw new System.InvalidOperationException($"Could not find endpoint with name \'{endpointConfiguration}\'.");
         }

@@ -121,7 +121,7 @@ tinymce.addI18n('eo',{
 "Insert link": "Enmetu ligilon",
 "New window": "Nova fenestro",
 "None": "Nenio",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "La enmetita URLo \u015dajnas esti ekstera ligilo. \u0108u vi deziras aldoni nepran prefikson http:\/\/?",
+"The URL you entered seems to be an external link. Do you want to add the required https:\/\/ prefix?": "La enmetita URLo \u015dajnas esti ekstera ligilo. \u0108u vi deziras aldoni nepran prefikson https:\/\/?",
 "Target": "Celo",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "La enmetita URLo \u015dajnas esti retadreso. \u0108u vi deziras aldoni prefikson mailto:?",
 "Insert\/edit link": "Enmetu\/redaktu ligilon",

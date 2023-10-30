@@ -11,7 +11,7 @@ namespace Nop.Plugin.Widgets.GoogleAnalytics.Api
     {
         #region Fields
 
-        private const string BASE_URL = "http://www.google-analytics.com/__utm.gif?";
+        private const string BASE_URL = "https://www.google-analytics.com/__utm.gif?";
 
         private const string ANALYTICS_VERSION = "5.3.7";
         private const string BROWSER_JAVA_ENABLED = "0";

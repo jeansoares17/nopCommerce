@@ -160,7 +160,7 @@ tinymce.addI18n('id',{
 "Link...": "Tautan...",
 "Paste or type a link": "Tempel atau ketik sebuah tautan",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Tautan yang anda masukkan sepertinya adalah alamat email. Apakah Anda ingin menambahkan prefiks mailto: yang dibutuhkan?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Tautan yang anda masukkan sepertinya adalah tautan eksternal. Apakah Anda ingin menambahkan prefiks http:\/\/ yang dibutuhkan?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Tautan yang anda masukkan sepertinya adalah tautan eksternal. Apakah Anda ingin menambahkan prefiks https:\/\/ yang dibutuhkan?",
 "Link list": "Daftar tautan",
 "Insert video": "Sisipkan video",
 "Insert\/edit video": "Sisip\/sunting video",

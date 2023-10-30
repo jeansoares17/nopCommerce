@@ -14,7 +14,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ErrorDetail", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ErrorDetail", Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class ErrorDetailType
     {
         
@@ -134,7 +134,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class CodeType
     {
         
@@ -190,7 +190,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementIdentifierType", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementIdentifierType", Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class ElementIdentifierType1
     {
         
@@ -230,7 +230,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementLevelInformationType", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementLevelInformationType", Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class ElementLevelInformationType1
     {
         
@@ -270,7 +270,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class AdditionalCodeDescType
     {
         
@@ -310,7 +310,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class AdditionalInfoType
     {
         
@@ -350,7 +350,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class LocationType
     {
         
@@ -406,7 +406,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class PreauthorizedReturnInformationType
     {
         
@@ -494,7 +494,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class MessageType
     {
         
@@ -534,7 +534,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class AdditionalCodeDescriptionValueType
     {
         
@@ -590,7 +590,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class NextScheduleActivityType
     {
         
@@ -630,7 +630,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class StatusType
     {
         
@@ -686,7 +686,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class TransportFacilityType
     {
         
@@ -726,7 +726,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ActivityLocationType
     {
         
@@ -814,7 +814,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class AddressType
     {
         
@@ -902,7 +902,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class AlternateTrackingInfoType
     {
         
@@ -942,7 +942,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ActivityType
     {
         
@@ -1094,7 +1094,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class DocumentType
     {
         
@@ -1150,7 +1150,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class CommonCodeDescriptionType
     {
         
@@ -1190,7 +1190,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ServiceOptionType
     {
         
@@ -1230,7 +1230,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class PackageAddressType
     {
         
@@ -1270,7 +1270,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class RedirectType
     {
         
@@ -1326,7 +1326,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class PackageType
     {
         
@@ -1590,7 +1590,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class DeliveryDetailType
     {
         
@@ -1646,7 +1646,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class CODType
     {
         
@@ -1702,7 +1702,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class AmountType
     {
         
@@ -1742,7 +1742,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class CODStatusType
     {
         
@@ -1782,7 +1782,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class WeightType
     {
         
@@ -1822,7 +1822,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class UnitOfMeasurementType
     {
         
@@ -1862,7 +1862,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ReferenceNumberType
     {
         
@@ -1902,7 +1902,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class AppointmentType
     {
         
@@ -1974,7 +1974,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class DateTimeType
     {
         
@@ -2014,7 +2014,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class CarrierActivityInformationType
     {
         
@@ -2134,7 +2134,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class DestinationPortDetailType
     {
         
@@ -2174,7 +2174,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class OriginPortDetailType
     {
         
@@ -2214,7 +2214,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipmentActivityType
     {
         
@@ -2302,7 +2302,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class NumberOfPackagingUnitType
     {
         
@@ -2342,7 +2342,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class VolumeType
     {
         
@@ -2382,7 +2382,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class DeliveryDateUnavailableType
     {
         
@@ -2422,7 +2422,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ServiceCenterType
     {
         
@@ -2462,7 +2462,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipmentReferenceNumberType
     {
         
@@ -2518,7 +2518,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ServiceType
     {
         
@@ -2558,7 +2558,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipmentAddressType
     {
         
@@ -2598,7 +2598,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class CodeDescriptionValueType
     {
         
@@ -2654,7 +2654,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipmentType
     {
         
@@ -3142,7 +3142,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class RefShipmentType
     {
         
@@ -3182,7 +3182,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class ElementIdentifierType
     {
         
@@ -3222,7 +3222,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class ElementLevelInformationType
     {
         
@@ -3262,7 +3262,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class DetailType
     {
         
@@ -3318,7 +3318,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class CodeDescriptionType
     {
         
@@ -3358,7 +3358,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class ResponseType
     {
         
@@ -3430,7 +3430,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class TransactionReferenceType
     {
         
@@ -3470,7 +3470,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipperAccountInfoType
     {
         
@@ -3510,7 +3510,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipToRequestType
     {
         
@@ -3534,7 +3534,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class AddressRequestType
     {
         
@@ -3574,7 +3574,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class ShipFromRequestType
     {
         
@@ -3598,7 +3598,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class PickupDateRangeType
     {
         
@@ -3638,7 +3638,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class RequestType
     {
         
@@ -3692,12 +3692,12 @@ namespace UPSTrack
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
-    [System.ServiceModel.ServiceContractAttribute(Namespace="http://www.ups.com/WSDL/XOLTWS/Track/v2.0", ConfigurationName="UPSTrack.TrackPortType")]
+    [System.ServiceModel.ServiceContractAttribute(Namespace="https://www.ups.com/WSDL/XOLTWS/Track/v2.0", ConfigurationName="UPSTrack.TrackPortType")]
     public interface TrackPortType
     {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://onlinetools.ups.com/webservices/TrackBinding/v2.0", ReplyAction="*")]
-        [System.ServiceModel.FaultContractAttribute(typeof(UPSTrack.ErrorDetailType[]), Action="http://onlinetools.ups.com/webservices/TrackBinding/v2.0", Name="Errors", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+        [System.ServiceModel.OperationContractAttribute(Action="https://onlinetools.ups.com/webservices/TrackBinding/v2.0", ReplyAction="*")]
+        [System.ServiceModel.FaultContractAttribute(typeof(UPSTrack.ErrorDetailType[]), Action="https://onlinetools.ups.com/webservices/TrackBinding/v2.0", Name="Errors", Namespace="https://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
         [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
         System.Threading.Tasks.Task<UPSTrack.TrackResponse1> ProcessTrackAsync(UPSTrack.TrackRequest1 request);
     }
@@ -3705,7 +3705,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
     public partial class UPSSecurity
     {
         
@@ -3745,7 +3745,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
     public partial class UPSSecurityUsernameToken
     {
         
@@ -3785,7 +3785,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
     public partial class UPSSecurityServiceAccessToken
     {
         
@@ -3809,7 +3809,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class TrackRequest
     {
         
@@ -3842,7 +3842,7 @@ namespace UPSTrack
         private string localeField;
         
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
         public RequestType Request
         {
             get
@@ -4041,7 +4041,7 @@ namespace UPSTrack
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0")]
     public partial class TrackResponse
     {
         
@@ -4052,7 +4052,7 @@ namespace UPSTrack
         private string[] disclaimerField;
         
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
         public ResponseType Response
         {
             get
@@ -4101,10 +4101,10 @@ namespace UPSTrack
     public partial class TrackRequest1
     {
         
-        [System.ServiceModel.MessageHeaderAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+        [System.ServiceModel.MessageHeaderAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
         public UPSTrack.UPSSecurity UPSSecurity;
         
-        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0", Order=0)]
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0", Order=0)]
         public UPSTrack.TrackRequest TrackRequest;
         
         public TrackRequest1()
@@ -4125,7 +4125,7 @@ namespace UPSTrack
     public partial class TrackResponse1
     {
         
-        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Track/v2.0", Order=0)]
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="https://www.ups.com/XMLSchema/XOLTWS/Track/v2.0", Order=0)]
         public UPSTrack.TrackResponse TrackResponse;
         
         public TrackResponse1()

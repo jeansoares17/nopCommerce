@@ -247,7 +247,7 @@ namespace Nop.Tests.Nop.Web.Tests.Public.Factories
 
             model.CustomerAvatarUrl.Should().NotBeNullOrEmpty();
             model.CustomerAvatarUrl.Should()
-                .Be($"http://{NopTestsDefaults.HostIpAddress}/images/thumbs/default-avatar_{GetService<MediaSettings>().AvatarPictureSize}.jpg");
+                .Be($"https://{NopTestsDefaults.HostIpAddress}/images/thumbs/default-avatar_{GetService<MediaSettings>().AvatarPictureSize}.jpg");
         }
 
         [Test]

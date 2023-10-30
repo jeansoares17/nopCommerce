@@ -89,7 +89,7 @@ export default moment.defineLocale('bo', {
             return symbolMap[match];
         });
     },
-    meridiemParse: /མཚན་མོ|ཞོགས་ཀས|ཉིན་གུང|དགོང་དག|མཚན་མོ/,
+    meridiemParse: /མཚན་མོ|ཞོགས་ཀས|ཉིན་གུང|དགོང་དག/,
     meridiemHour: function (hour, meridiem) {
         if (hour === 12) {
             hour = 0;

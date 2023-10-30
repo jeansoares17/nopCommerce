@@ -84,7 +84,7 @@ export default moment.defineLocale('bn', {
             return symbolMap[match];
         });
     },
-    meridiemParse: /রাত|সকাল|দুপুর|বিকাল|রাত/,
+    meridiemParse: /রাত|সকাল|দুপুর|বিকাল/,
     meridiemHour: function (hour, meridiem) {
         if (hour === 12) {
             hour = 0;

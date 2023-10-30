@@ -49,7 +49,7 @@ export default moment.defineLocale('ko', {
         y: '일 년',
         yy: '%d년',
     },
-    dayOfMonthOrdinalParse: /\d{1,2}(일|월|주)/,
+    dayOfMonthOrdinalParse: /\d{1,2}([일월주])/,
     ordinal: function (number, period) {
         switch (period) {
             case 'd':

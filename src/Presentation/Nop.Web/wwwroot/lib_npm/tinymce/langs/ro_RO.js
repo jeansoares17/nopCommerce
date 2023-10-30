@@ -160,7 +160,7 @@ tinymce.addI18n('ro_RO',{
 "Link...": "Link\u2026",
 "Paste or type a link": "Lipi\u021bi sau scrie\u021bi un link",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "URL-ul introdus pare a fi o adres\u0103 de e-mail. Dori\u021bi s\u0103 ad\u0103uga\u021bi prefixul mailto: necesar?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URL-ul introdus pare a fi un link extern. Dori\u021bi s\u0103 ad\u0103uga\u021bi prefixul http:\/\/ necesar?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URL-ul introdus pare a fi un link extern. Dori\u021bi s\u0103 ad\u0103uga\u021bi prefixul https:\/\/ necesar?",
 "Link list": "List\u0103 linkuri",
 "Insert video": "Inserare video",
 "Insert\/edit video": "Inserare\/editare video",

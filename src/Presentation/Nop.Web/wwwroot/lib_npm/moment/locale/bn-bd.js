@@ -85,7 +85,7 @@ export default moment.defineLocale('bn-bd', {
         });
     },
 
-    meridiemParse: /রাত|ভোর|সকাল|দুপুর|বিকাল|সন্ধ্যা|রাত/,
+    meridiemParse: /ভোর|সকাল|দুপুর|বিকাল|সন্ধ্যা|রাত/,
     meridiemHour: function (hour, meridiem) {
         if (hour === 12) {
             hour = 0;

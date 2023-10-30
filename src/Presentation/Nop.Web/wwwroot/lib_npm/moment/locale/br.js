@@ -63,7 +63,7 @@ var monthsParse = [
         /^ker/i,
     ],
     monthsRegex =
-        /^(genver|c[ʼ\']hwevrer|meurzh|ebrel|mae|mezheven|gouere|eost|gwengolo|here|du|kerzu|gen|c[ʼ\']hwe|meu|ebr|mae|eve|gou|eos|gwe|her|du|ker)/i,
+        /^(genver|c[ʼ\']hwevrer|meurzh|ebrel|mae|mezheven|gouere|eost|gwengolo|here|kerzu|gen|c[ʼ\']hwe|meu|ebr|eve|gou|eos|gwe|her|du|ker)/i,
     monthsStrictRegex =
         /^(genver|c[ʼ\']hwevrer|meurzh|ebrel|mae|mezheven|gouere|eost|gwengolo|here|du|kerzu)/i,
     monthsShortStrictRegex =

@@ -160,7 +160,7 @@ tinymce.addI18n('pl',{
 "Link...": "\u0141\u0105cze...",
 "Paste or type a link": "Wklej lub wpisz adres \u0142\u0105cza",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "URL, kt\u00f3ry wprowadzi\u0142e\u015b wygl\u0105da na adres e-mail. Czy chcesz doda\u0107 mailto: jako prefiks?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URL, kt\u00f3ry wprowadzi\u0142e\u015b wygl\u0105da na link zewn\u0119trzny. Czy chcesz doda\u0107 http:\/\/ jako prefiks?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URL, kt\u00f3ry wprowadzi\u0142e\u015b wygl\u0105da na link zewn\u0119trzny. Czy chcesz doda\u0107 https:\/\/ jako prefiks?",
 "Link list": "Lista link\u00f3w",
 "Insert video": "Wstaw wideo",
 "Insert\/edit video": "Wstaw\/edytuj wideo",

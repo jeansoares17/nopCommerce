@@ -2263,7 +2263,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'the-best-category' to make your page URL 'http://www.yourStore.com/the-best-category'. Leave empty to generate it automatically based on the name of the category.</Value>
+    <Value>Set a search engine friendly page name e.g. 'the-best-category' to make your page URL 'https://www.yourStore.com/the-best-category'. Leave empty to generate it automatically based on the name of the category.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Fields.ShowOnHomepage">
     <Value>Show on home page</Value>
@@ -2494,7 +2494,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'the-best-manufacturer' to make your page URL 'http://www.yourStore.com/the-best-manufacturer'. Leave empty to generate it automatically based on the name of the manufacturer.</Value>
+    <Value>Set a search engine friendly page name e.g. 'the-best-manufacturer' to make your page URL 'https://www.yourStore.com/the-best-manufacturer'. Leave empty to generate it automatically based on the name of the manufacturer.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Imported">
     <Value>Manufacturers have been imported successfully.</Value>
@@ -3319,7 +3319,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'the-best-product' to make your page URL 'http://www.yourStore.com/the-best-product'. Leave empty to generate it automatically based on the name of the product.</Value>
+    <Value>Set a search engine friendly page name e.g. 'the-best-product' to make your page URL 'https://www.yourStore.com/the-best-product'. Leave empty to generate it automatically based on the name of the product.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.ShipSeparately">
     <Value>Ship separately</Value>
@@ -4789,7 +4789,7 @@
     <Value>Numeric ISO code</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.NumericIsoCode.Hint">
-    <Value>The numeric ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_numeric.</Value>
+    <Value>The numeric ISO code for this country. For a complete list of ISO codes go to: https://en.wikipedia.org/wiki/ISO_3166-1_numeric.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.Published">
     <Value>Published</Value>
@@ -4807,7 +4807,7 @@
     <Value>Three letter ISO code</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Hint">
-    <Value>The three letter ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3.</Value>
+    <Value>The three letter ISO code for this country. For a complete list of ISO codes go to: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.ThreeLetterIsoCode.Length">
     <Value>Three letter ISO code should be 3 characters long.</Value>
@@ -4819,7 +4819,7 @@
     <Value>Two letter ISO code</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Hint">
-    <Value>The two letter ISO code for this country. For a complete list of ISO codes go to: http://en.wikipedia.org/wiki/ISO_3166-1_alpha.</Value>
+    <Value>The two letter ISO code for this country. For a complete list of ISO codes go to: https://en.wikipedia.org/wiki/ISO_3166-1_alpha.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.TwoLetterIsoCode.Length">
     <Value>Two letter ISO code should be 2 characters long.</Value>
@@ -5233,7 +5233,7 @@
     <Value>Unique SEO code</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Fields.UniqueSeoCode.Hint">
-    <Value>The unique two letter SEO code. It's used to generate URLs like 'http://www.yourStore.com/en/' when you have more than one published language. 'SEO friendly URLs with multiple languages' option should also be enabled.</Value>
+    <Value>The unique two letter SEO code. It's used to generate URLs like 'https://www.yourStore.com/en/' when you have more than one published language. 'SEO friendly URLs with multiple languages' option should also be enabled.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Fields.UniqueSeoCode.Length">
     <Value>Two letter SEO code should be 2 characters long.</Value>
@@ -7228,7 +7228,7 @@
     <Value>The goal of the canonicalization process is to transform a URL into a canonical URL so it is possible to determine if two syntactically different URLs may be equivalent.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.Captcha.Instructions">
-    <Value><![CDATA[CAPTCHA is a program that can tell whether it is a human or a computer is trying to access your web site. nopCommerce uses <a href="http://www.google.com/recaptcha" target="_blank">reCAPTCHA</a> by Google. reCAPTCHA is a free service that protects your website from spam and abuse. reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep automated software from engaging in abusive activities on your site. It does this while letting your valid users pass through with ease.]]></Value>
+    <Value><![CDATA[CAPTCHA is a program that can tell whether it is a human or a computer is trying to access your web site. nopCommerce uses <a href="https://www.google.com/recaptcha" target="_blank">reCAPTCHA</a> by Google. reCAPTCHA is a free service that protects your website from spam and abuse. reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep automated software from engaging in abusive activities on your site. It does this while letting your valid users pass through with ease.]]></Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaAppropriateKeysNotEnteredError">
     <Value>Captcha is enabled but the appropriate keys are not entered</Value>
@@ -7591,7 +7591,7 @@
     <Value>Localization patterns for the current culture loaded successfully.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.Localization.Description">
-    <Value><![CDATA[Sets the <a href="http://cldr.unicode.org/" target="_blank">CLDR</a> pattern for localization of client-side validation according to the current culture]]></Value>
+    <Value><![CDATA[Sets the <a href="https://cldr.unicode.org/" target="_blank">CLDR</a> pattern for localization of client-side validation according to the current culture]]></Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.Localization.UploadLocalePattern">
     <Value>Set CLDR for current culture</Value>
@@ -7702,7 +7702,7 @@
     <Value>SEO friendly URLs with multiple languages enabled</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SeoFriendlyUrlsForLanguagesEnabled.Hint">
-    <Value>When enabled, your URLs will be http://www.yourStore.com/en/ or http://www.yourStore.com/ru/ (SEO friendly).</Value>
+    <Value>When enabled, your URLs will be https://www.yourStore.com/en/ or https://www.yourStore.com/ru/ (SEO friendly).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SeoFriendlyUrlsForLanguagesEnabled.Warning">
     <Value>Attention! The changes will take effect only after the application is restarted.</Value>
@@ -7810,7 +7810,7 @@
     <Value>WWW prefix requirement</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.WwwRequirement.Hint">
-    <Value>Choose your store WWW prefix requirement. For example, http://yourStore.com/ could be automatically redirected to http://www.yourStore.com/.</Value>
+    <Value>Choose your store WWW prefix requirement. For example, https://yourStore.com/ could be automatically redirected to https://www.yourStore.com/.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.YoutubeLink">
     <Value>YouTube channel URL</Value>
@@ -9637,7 +9637,7 @@
     <Value>Store URL</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Stores.Fields.Url.Hint">
-    <Value>The URL of your store e.g. http://www.yourstore.com/ or https://www.yourstore.com/mystore/.</Value>
+    <Value>The URL of your store e.g. https://www.yourstore.com/ or https://www.yourstore.com/mystore/.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Stores.Fields.Url.Required">
     <Value>Please provide a store URL.</Value>
@@ -10027,7 +10027,7 @@
     <Value>Enable SSL</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ConfigurationSteps.Store.Url.Text">
-    <Value>Enter your store URL in this field. For example, it could be http://www.yourstore.com/ or https://www.yourstore.com/mystore/ if you installed your store in a subdirectory.</Value>
+    <Value>Enter your store URL in this field. For example, it could be https://www.yourstore.com/ or https://www.yourstore.com/mystore/ if you installed your store in a subdirectory.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ConfigurationSteps.Store.Url.Title">
     <Value>Your store URL</Value>
@@ -10237,7 +10237,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'the-best-blog-post' to make your page URL 'http://www.yourStore.com/the-best-blog-post'. Leave empty to generate it automatically based on the title of the blog post.</Value>
+    <Value>Set a search engine friendly page name e.g. 'the-best-blog-post' to make your page URL 'https://www.yourStore.com/the-best-blog-post'. Leave empty to generate it automatically based on the title of the blog post.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.StartDate">
     <Value>Start date</Value>
@@ -10900,7 +10900,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'the-best-news' to make your page URL 'http://www.yourStore.com/the-best-news'. Leave empty to generate it automatically based on the title of the news.</Value>
+    <Value>Set a search engine friendly page name e.g. 'the-best-news' to make your page URL 'https://www.yourStore.com/the-best-news'. Leave empty to generate it automatically based on the title of the news.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Short">
     <Value>Short description</Value>
@@ -11182,7 +11182,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'some-topic-name' to make your page URL 'http://www.yourStore.com/some-topic-name'. Leave empty to generate it automatically based on the title of the topic.</Value>
+    <Value>Set a search engine friendly page name e.g. 'some-topic-name' to make your page URL 'https://www.yourStore.com/some-topic-name'. Leave empty to generate it automatically based on the title of the topic.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.Fields.Store">
     <Value>Store</Value>
@@ -16135,7 +16135,7 @@
     <Value>Search engine friendly page name</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page name e.g. 'the-best-vendor' to make your page URL 'http://www.yourStore.com/the-best-vendor'. Leave empty to generate it automatically based on the name of the vendor.</Value>
+    <Value>Set a search engine friendly page name e.g. 'the-best-vendor' to make your page URL 'https://www.yourStore.com/the-best-vendor'. Leave empty to generate it automatically based on the name of the vendor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Info">
     <Value>Vendor Info</Value>

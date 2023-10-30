@@ -159,7 +159,7 @@ tinymce.addI18n('vi',{
 "Link": "Link",
 "Paste or type a link": "Paste or type a link",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "\u0110\u1ecba ch\u1ec9 URL b\u1ea1n v\u1eeba nh\u1eadp gi\u1ed1ng nh\u01b0 m\u1ed9t \u0111\u1ecba ch\u1ec9 email. B\u1ea1n c\u00f3 mu\u1ed1n th\u00eam ti\u1ec1n t\u1ed1 mailto: kh\u00f4ng?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "\u0110\u1ecba ch\u1ec9 URL b\u1ea1n v\u1eeba nh\u1eadp gi\u1ed1ng nh\u01b0 m\u1ed9t li\u00ean k\u1ebft. B\u1ea1n c\u00f3 mu\u1ed1n th\u00eam ti\u1ec1n t\u1ed1 http:\/\/ kh\u00f4ng?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "\u0110\u1ecba ch\u1ec9 URL b\u1ea1n v\u1eeba nh\u1eadp gi\u1ed1ng nh\u01b0 m\u1ed9t li\u00ean k\u1ebft. B\u1ea1n c\u00f3 mu\u1ed1n th\u00eam ti\u1ec1n t\u1ed1 https:\/\/ kh\u00f4ng?",
 "Link list": "Link list",
 "Insert video": "Ch\u00e8n video",
 "Insert\/edit video": "Ch\u00e8n\/s\u1eeda video",

@@ -160,7 +160,7 @@ tinymce.addI18n('cy',{
 "Link...": "Dolen...",
 "Paste or type a link": "Pastio neu deipio dolen",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Mae'n debyg mai cyfeiriad e-bost yw'r URL hwn. Ydych chi am ychwanegu'r rhagddoddiad mailto:?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Mae'n debyg mai dolen allanol yw'r URL hwn. Ydych chi am ychwanegu'r rhagddodiad http:\/\/ ?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Mae'n debyg mai dolen allanol yw'r URL hwn. Ydych chi am ychwanegu'r rhagddodiad https:\/\/ ?",
 "Link list": "Rhestr dolenni",
 "Insert video": "Mewnosod fideo",
 "Insert\/edit video": "Mewnosod\/golygu fideo",

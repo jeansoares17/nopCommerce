@@ -160,7 +160,7 @@ tinymce.addI18n('eu',{
 "Link...": "Esteka...",
 "Paste or type a link": "Itsatsu edo idatzi lotura",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Sartu duzun URL-ak e-posta helbidea dela dirudi. Nahi duzu dagokion mailto: aurrizkia gehitzea?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Sartu duzun URL-ak kanpoko esteka dela dirudi. Nahi duzu dagokion http:\/\/ aurrizkia gehitzea?",
+"The URL you entered seems to be an external link. Do you want to add the required https:\/\/ prefix?": "Sartu duzun URL-ak kanpoko esteka dela dirudi. Nahi duzu dagokion https:\/\/ aurrizkia gehitzea?",
 "Link list": "Loturen zerrenda",
 "Insert video": "Bideoa txertatu",
 "Insert\/edit video": "Bideoa txertatu\/editatu",

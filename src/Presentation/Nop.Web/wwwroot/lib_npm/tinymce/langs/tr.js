@@ -160,7 +160,7 @@ tinymce.addI18n('tr',{
 "Link...": "Ba\u011flant\u0131...",
 "Paste or type a link": "Bir ba\u011flant\u0131 yaz\u0131n yada yap\u0131\u015ft\u0131r\u0131n",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Girdi\u011finiz URL bir e-posta adresi gibi g\u00f6r\u00fcn\u00fcyor. Gerekli olan mailto: \u00f6nekini eklemek ister misiniz?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Girdi\u011finiz URL bir d\u0131\u015f ba\u011flant\u0131 gibi g\u00f6r\u00fcn\u00fcyor. Gerekli olan http:\/\/ \u00f6nekini eklemek ister misiniz?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Girdi\u011finiz URL bir d\u0131\u015f ba\u011flant\u0131 gibi g\u00f6r\u00fcn\u00fcyor. Gerekli olan https:\/\/ \u00f6nekini eklemek ister misiniz?",
 "Link list": "Ba\u011flant\u0131 listesi",
 "Insert video": "Video ekle",
 "Insert\/edit video": "Video ekle\/d\u00fczenle",

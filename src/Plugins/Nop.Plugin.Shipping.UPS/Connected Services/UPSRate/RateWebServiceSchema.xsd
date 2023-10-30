@@ -1,5 +1,5 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:common="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0" xmlns:rate="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1" xmlns:ups="http://www.ups.com/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1" version="201801">
-	<xsd:import namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0" schemaLocation="common.xsd"/>
+	<xsd:import namespace="https://www.ups.com/XMLSchema/XOLTWS/Common/v1.0" schemaLocation="common.xsd"/>
 	<xsd:element name="RateRequest">
 		<xsd:complexType>
 			<xsd:sequence>

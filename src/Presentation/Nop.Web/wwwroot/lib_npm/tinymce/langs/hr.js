@@ -160,7 +160,7 @@ tinymce.addI18n('hr',{
 "Link...": "Poveznica...",
 "Paste or type a link": "Zalijepi ili upi\u0161i link",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Izgleda da je URL koji ste upisali e-mail adresa. \u017delite li dodati obavezan mailto: prefiks?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Izgleda da je URL koji ste upisali vanjski link. \u017delite li dodati obavezan http:\/\/ prefiks?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Izgleda da je URL koji ste upisali vanjski link. \u017delite li dodati obavezan https:\/\/ prefiks?",
 "Link list": "Link list",
 "Insert video": "Umetni video",
 "Insert\/edit video": "Umetni\/izmijeni video",

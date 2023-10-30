@@ -133,7 +133,7 @@ export default moment.defineLocale('ar', {
         LLL: 'D MMMM YYYY HH:mm',
         LLLL: 'dddd D MMMM YYYY HH:mm',
     },
-    meridiemParse: /ص|م/,
+    meridiemParse: /[صم]/,
     isPM: function (input) {
         return 'م' === input;
     },

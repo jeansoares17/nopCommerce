@@ -160,7 +160,7 @@ tinymce.addI18n('fi',{
 "Link...": "Linkki...",
 "Paste or type a link": "Sijoita tai kirjoita linkki",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Antamasi osoite n\u00e4ytt\u00e4\u00e4 olevan s\u00e4hk\u00f6postiosoite. Haluatko lis\u00e4t\u00e4 osoitteeseen vaaditun mailto: -etuliitteen?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Antamasi osoite n\u00e4ytt\u00e4\u00e4 olevan ulkoinen linkki. Haluatko lis\u00e4t\u00e4 osoitteeseen vaaditun http:\/\/ -etuliitteen?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Antamasi osoite n\u00e4ytt\u00e4\u00e4 olevan ulkoinen linkki. Haluatko lis\u00e4t\u00e4 osoitteeseen vaaditun https:\/\/ -etuliitteen?",
 "Link list": "Linkkilista",
 "Insert video": "Lis\u00e4\u00e4 video",
 "Insert\/edit video": "Lis\u00e4\u00e4\/muokkaa video",

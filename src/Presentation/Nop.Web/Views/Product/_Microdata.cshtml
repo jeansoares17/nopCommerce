@@ -16,7 +16,7 @@
 }
 
 <!--Microdata-->
-<div @if (isAssociatedProduct) { <text>itemprop="isAccessoryOrSparePartFor"</text> } itemscope itemtype="http://schema.org/Product">
+<div @if (isAssociatedProduct) { <text>itemprop="isAccessoryOrSparePartFor"</text> } itemscope itemtype="https://schema.org/Product">
     <meta itemprop="name" content="@Model.Name"/>
     <meta itemprop="sku" content="@Model.Sku"/>
     <meta itemprop="gtin" content="@Model.Gtin"/>
@@ -31,7 +31,7 @@
     }
     @if (Model.ProductReviewOverview.TotalReviews > 0)
     {
-        <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+        <div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             @{
                 var ratingPercent = 0;
                 if (Model.ProductReviewOverview.TotalReviews != 0)
@@ -44,16 +44,16 @@
             <meta itemprop="reviewCount" content="@Model.ProductReviewOverview.TotalReviews"/>
         </div>
     }    
-    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+    <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
         <meta itemprop="url" content="@productUrl"/>
         <meta itemprop="price" content="@(Model.ProductPrice.CallForPrice ? null : productPrice.ToString("0.00", System.Globalization.CultureInfo.InvariantCulture))"/>
         <meta itemprop="priceCurrency" content="@Model.ProductPrice.CurrencyCode"/>
         <meta itemprop="priceValidUntil" content="@Model.AvailableEndDate"/>
-        <meta itemprop="availability" content="http://schema.org/@(Model.InStock ? "InStock" : "OutOfStock")" />
+        <meta itemprop="availability" content="https://schema.org/@(Model.InStock ? "InStock" : "OutOfStock")" />
     </div>
     @if (Model.ProductReviewOverview.AllowCustomerReviews)
     {
-        <div itemprop="review" itemscope itemtype="http://schema.org/Review">
+        <div itemprop="review" itemscope itemtype="https://schema.org/Review">
             <div itemprop="author" itemtype="https://schema.org/Person" itemscope>
                 <meta itemprop="name" content="ALL" />
             </div>

@@ -160,7 +160,7 @@ tinymce.addI18n('pt_PT',{
 "Link...": "Liga\u00e7\u00e3o...",
 "Paste or type a link": "Copiar ou escrever uma hiperliga\u00e7\u00e3o",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "O URL que indicou parece ser um endere\u00e7o de email. Quer adicionar o prefixo mailto: tal como necess\u00e1rio?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "O URL que indicou parece ser um endere\u00e7o web. Quer adicionar o prefixo http:\/\/ tal como necess\u00e1rio?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "O URL que indicou parece ser um endere\u00e7o web. Quer adicionar o prefixo https:\/\/ tal como necess\u00e1rio?",
 "Link list": "Lista de liga\u00e7\u00f5es",
 "Insert video": "Inserir v\u00eddeo",
 "Insert\/edit video": "Inserir\/editar v\u00eddeo",

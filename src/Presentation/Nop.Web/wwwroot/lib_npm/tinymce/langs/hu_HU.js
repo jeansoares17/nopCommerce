@@ -160,7 +160,7 @@ tinymce.addI18n('hu_HU',{
 "Link...": "Hivatkoz\u00e1s...",
 "Paste or type a link": "Hivatkoz\u00e1s be\u00edr\u00e1sa vagy beilleszt\u00e9se",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "A megadott URL email c\u00edmnek t\u0171nik. Szeretn\u00e9d hozz\u00e1adni a sz\u00fcks\u00e9ges mailto: el\u0151tagot?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "A megadott URL k\u00fcls\u0151 c\u00edmnek t\u0171nik. Szeretn\u00e9d hozz\u00e1adni a sz\u00fcks\u00e9ges http:\/\/ el\u0151tagot?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "A megadott URL k\u00fcls\u0151 c\u00edmnek t\u0171nik. Szeretn\u00e9d hozz\u00e1adni a sz\u00fcks\u00e9ges https:\/\/ el\u0151tagot?",
 "Link list": "Hivatkoz\u00e1slista",
 "Insert video": "Vide\u00f3 beilleszt\u00e9se",
 "Insert\/edit video": "Vide\u00f3 beilleszt\u00e9se\/szerkeszt\u00e9se",

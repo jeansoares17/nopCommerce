@@ -160,7 +160,7 @@ tinymce.addI18n('it_IT',{
 "Link...": "Collegamento...",
 "Paste or type a link": "Incolla o digita un collegamento",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "L'URL inserito sembra essere un indirizzo email. Si vuole aggiungere il necessario prefisso mailto:?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "L'URL inserito sembra essere un collegamento esterno. Si vuole aggiungere il necessario prefisso http:\/\/?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "L'URL inserito sembra essere un collegamento esterno. Si vuole aggiungere il necessario prefisso https:\/\/?",
 "Link list": "Elenco collegamenti",
 "Insert video": "Inserisci video",
 "Insert\/edit video": "Inserisci\/modifica video",

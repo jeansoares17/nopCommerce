@@ -160,7 +160,7 @@ tinymce.addI18n('gl',{
 "Link...": "Ligaz\u00f3n...",
 "Paste or type a link": "Pegue ou escriba unha ligaz\u00f3n",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "O URL que introduciu semella seren un enderezo de correo. Quere engadirlle o prefixo mailto: requirido?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "O URL que introduciu semella seren unha ligaz\u00f3n externa. Quere engadirlle o prefixo http:\/\/ requirido?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "O URL que introduciu semella seren unha ligaz\u00f3n externa. Quere engadirlle o prefixo https:\/\/ requirido?",
 "Link list": "Lista de ligaz\u00f3ns",
 "Insert video": "Inserir v\u00eddeo",
 "Insert\/edit video": "Inserir\/editar v\u00eddeo",

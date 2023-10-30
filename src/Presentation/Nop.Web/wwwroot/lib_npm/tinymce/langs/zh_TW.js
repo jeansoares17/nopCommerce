@@ -160,7 +160,7 @@ tinymce.addI18n('zh_TW',{
 "Link...": "\u9023\u7d50...",
 "Paste or type a link": "\u8cbc\u4e0a\u6216\u8f38\u5165\u9023\u7d50",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "\u4f60\u6240\u586b\u5beb\u7684URL\u70ba\u96fb\u5b50\u90f5\u4ef6\uff0c\u9700\u8981\u52a0\u4e0amailto:\u524d\u7db4\u55ce\uff1f",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "\u4f60\u6240\u586b\u5beb\u7684URL\u5c6c\u65bc\u5916\u90e8\u93c8\u63a5\uff0c\u9700\u8981\u52a0\u4e0ahttp:\/\/:\u524d\u7db4\u55ce\uff1f",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "\u4f60\u6240\u586b\u5beb\u7684URL\u5c6c\u65bc\u5916\u90e8\u93c8\u63a5\uff0c\u9700\u8981\u52a0\u4e0ahttps:\/\/:\u524d\u7db4\u55ce\uff1f",
 "Link list": "\u9023\u7d50\u6e05\u55ae",
 "Insert video": "\u63d2\u5165\u5f71\u97f3",
 "Insert\/edit video": "\u63d2\u4ef6\/\u7de8\u8f2f \u5f71\u97f3",

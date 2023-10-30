@@ -82,8 +82,8 @@ namespace Nop.Plugin.ExchangeRate.EcbExchange
 
                 //add namespaces
                 var namespaces = new XmlNamespaceManager(document.NameTable);
-                namespaces.AddNamespace("ns", "http://www.ecb.int/vocabulary/2002-08-01/eurofxref");
-                namespaces.AddNamespace("gesmes", "http://www.gesmes.org/xml/2002-08-01");
+                namespaces.AddNamespace("ns", "https://www.ecb.int/vocabulary/2002-08-01/eurofxref");
+                namespaces.AddNamespace("gesmes", "https://www.gesmes.org/xml/2002-08-01");
 
                 //get daily rates
                 var dailyRates = document.SelectSingleNode("gesmes:Envelope/ns:Cube/ns:Cube", namespaces);

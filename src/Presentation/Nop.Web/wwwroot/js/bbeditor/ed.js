@@ -23,7 +23,7 @@ function edToolbar(obj, webRoot) {
 
 function doURL(obj) {
     textarea = document.getElementById(obj);
-    var url = prompt('Enter the URL:', 'http://');
+    var url = prompt('Enter the URL:', 'https://');
     var scrollTop = textarea.scrollTop;
     var scrollLeft = textarea.scrollLeft;
     if (url != '' && url != null) {
@@ -60,7 +60,7 @@ function doURL(obj) {
 
 function doImg(obj) {
     textarea = document.getElementById(obj);
-    var url = prompt('Enter the picture URL:', 'http://');
+    var url = prompt('Enter the picture URL:', 'https://');
     var scrollTop = textarea.scrollTop;
     var scrollLeft = textarea.scrollLeft;
     if (url != '' && url != null) {

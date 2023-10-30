@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <browsercapitems>
   <comments>
-    <comment><![CDATA[nopCommerce uses a short version of the "browscap.xml" file. This short version contains crawlers only. If you want to keep the crawlers list up to date, please download the full version of the original file from the official browscap site (http://browscap.org/). Please save it in the \App_Data folder (The file name should be "browscap.xml"), delete "browscap.crawlersonly.xml", and restart the website.]]></comment>
-    <comment><![CDATA[Provided courtesy of http://browscap.org/]]></comment>
+    <comment><![CDATA[nopCommerce uses a short version of the "browscap.xml" file. This short version contains crawlers only. If you want to keep the crawlers list up to date, please download the full version of the original file from the official browscap site (https://browscap.org/). Please save it in the \App_Data folder (The file name should be "browscap.xml"), delete "browscap.crawlersonly.xml", and restart the website.]]></comment>
+    <comment><![CDATA[Provided courtesy of https://browscap.org/]]></comment>
     <comment><![CDATA[Created on Tuesday, October 4, 2022 at 07:29 AM GMT+0000]]></comment>
     <comment><![CDATA[Keep up with the latest goings-on with the project:]]></comment>
     <comment><![CDATA[Follow us on Twitter <https://twitter.com/browscap>, or...]]></comment>
@@ -93,7 +93,7 @@
   <browscapitem name="80Legs">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; *; http://www.80legs.com/*) Gecko*">
+  <browscapitem name="Mozilla/5.0 (compatible; *; https://www.80legs.com/*) Gecko*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Adbeat">
@@ -165,10 +165,10 @@
   <browscapitem name="GrapeshotCrawler">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)">
+  <browscapitem name="Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +https://www.grapeshot.co.uk/crawler.php)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; GrapeshotCrawler/*; +http://www.grapeshot.co.uk/crawler.php)">
+  <browscapitem name="Mozilla/5.0 (compatible; GrapeshotCrawler/*; +https://www.grapeshot.co.uk/crawler.php)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; grapeFX/0.9; crawler@grapeshot.co.uk">
@@ -198,7 +198,7 @@
   <browscapitem name="Anonymous/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="http://Anonymouse.org/*">
+  <browscapitem name="https://Anonymouse.org/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Randomized by FreeSafeIP*">
@@ -264,7 +264,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; YandexBot/*; MirrorDetector)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; YandexZakladki/*; Dyatel; +http://yandex.com/bots)">
+  <browscapitem name="Mozilla/5.0 (compatible; YandexZakladki/*; Dyatel; +https://yandex.com/bots)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="YaDirectBot/*">
@@ -276,7 +276,7 @@
   <browscapitem name="YandexSomething/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="*http://yandex.com/bots*">
+  <browscapitem name="*https://yandex.com/bots*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows; ?; Windows NT 5.2; en-US; rv:1.9) Gecko VisualParser/3.0">
@@ -1164,7 +1164,7 @@
   <browscapitem name="cz32ts">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="ddetailsbot (http://www.displaydetails.com)">
+  <browscapitem name="ddetailsbot (https://www.displaydetails.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="DomainsDB.net MetaCrawler*">
@@ -1206,10 +1206,10 @@
   <browscapitem name="hitcrawler_0.*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="http://hilfe.acont.de/bot.html ACONTBOT">
+  <browscapitem name="https://hilfe.acont.de/bot.html ACONTBOT">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="http://www.yellowpages.com*">
+  <browscapitem name="https://www.yellowpages.com*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="yp-crawl@attinteractive.com">
@@ -1221,7 +1221,7 @@
   <browscapitem name="JetBrains*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="JS-Kit URL Resolver, http://js-kit.com/">
+  <browscapitem name="JS-Kit URL Resolver, https://js-kit.com/">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="KakleBot - www.kakle.com/0.1">
@@ -1245,7 +1245,7 @@
   <browscapitem name="Lsearch/sondeur">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="MapoftheInternet.com?(?http://MapoftheInternet.com)">
+  <browscapitem name="MapoftheInternet.com?(?https://MapoftheInternet.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="metatagsdir/*">
@@ -1263,7 +1263,7 @@
   <browscapitem name="Mozilla/* (compatible; WebCapture*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0*(*redditbot/*http://www.reddit.com/feedback*)">
+  <browscapitem name="Mozilla/5.0*(*redditbot/*https://www.reddit.com/feedback*)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/4.0 (compatible; DepSpid/*)">
@@ -1290,58 +1290,58 @@
   <browscapitem name="Mozilla/4.0 (compatible; Spider; Linux)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; AdHitz; http://adhitz.com/)">
+  <browscapitem name="Mozilla/5.0 (compatible; AdHitz; https://adhitz.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; aiHitBot*/*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; aiHitBot*/*; +http://www.aihit.com/)">
+  <browscapitem name="Mozilla/5.0 (compatible; aiHitBot*/*; +https://www.aihit.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; BuzzRankingBot/*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; ClixSense; http://www.clixsense.com/)">
+  <browscapitem name="Mozilla/5.0 (compatible; ClixSense; https://www.clixsense.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="mozilla/5.0 (compatible; genevabot +http://www.healthdash.com)">
+  <browscapitem name="mozilla/5.0 (compatible; genevabot +https://www.healthdash.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; JadynAveBot; *http://www.jadynave.com/robot*">
+  <browscapitem name="Mozilla/5.0 (compatible; JadynAveBot; *https://www.jadynave.com/robot*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Kyluka crawl; http://www.kyluka.com/crawl.html; crawl@kyluka.com)">
+  <browscapitem name="Mozilla/5.0 (compatible; Kyluka crawl; https://www.kyluka.com/crawl.html; crawl@kyluka.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; LegalAnalysisAgent/1.*; http://www.legalx.net)">
+  <browscapitem name="Mozilla/5.0 (compatible; LegalAnalysisAgent/1.*; https://www.legalx.net)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; MSIE 7.0 ?http://www.europarchive.org)">
+  <browscapitem name="Mozilla/5.0 (compatible; MSIE 7.0 ?https://www.europarchive.org)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible*; MSIE 7.0 ?http://www.europarchive.org)">
+  <browscapitem name="Mozilla/5.0 (compatible*; MSIE 7.0 ?https://www.europarchive.org)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; MSIE 7.0; MSIE 6.0; ScanAlert; +http://www.scanalert.com/bot.jsp) Firefox/*">
+  <browscapitem name="Mozilla/5.0 (compatible; MSIE 7.0; MSIE 6.0; ScanAlert; +https://www.scanalert.com/bot.jsp) Firefox/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible*; MSIE 7.0; MSIE 6.0; ScanAlert; +http://www.scanalert.com/bot.jsp) Firefox/*">
+  <browscapitem name="Mozilla/5.0 (compatible*; MSIE 7.0; MSIE 6.0; ScanAlert; +https://www.scanalert.com/bot.jsp) Firefox/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; Nigma.ru/*; crawler@nigma.ru)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Plukkie/1.?; http://www.botje.com/plukkie.htm)">
+  <browscapitem name="Mozilla/5.0 (compatible; Plukkie/1.?; https://www.botje.com/plukkie.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; SuchbaerBot/0.*; +http://bot.suchbaer.de/info.html)">
+  <browscapitem name="Mozilla/5.0 (compatible; SuchbaerBot/0.*; +https://bot.suchbaer.de/info.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Twingly Recon; http://www.twingly.com/)">
+  <browscapitem name="Mozilla/5.0 (compatible; Twingly Recon; https://www.twingly.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; unwrapbot/2.*; +http://www.unwrap.jp*)">
+  <browscapitem name="Mozilla/5.0 (compatible; unwrapbot/2.*; +https://www.unwrap.jp*)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; Vermut*)">
@@ -1392,7 +1392,7 @@
   <browscapitem name="Ocelli/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="OpenTaggerBot (http://www.opentagger.com/opentaggerbot.htm)">
+  <browscapitem name="OpenTaggerBot (https://www.opentagger.com/opentaggerbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Oracle Enterprise Search">
@@ -1407,7 +1407,7 @@
   <browscapitem name="panscient.com">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Patwebbot (http://www.herz-power.de/technik.html)">
+  <browscapitem name="Patwebbot (https://www.herz-power.de/technik.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="PDFBot (crawler@pdfind.com)">
@@ -1434,10 +1434,10 @@
   <browscapitem name="Radiation Retriever*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="RixBot (http://babelserver.org/rix)">
+  <browscapitem name="RixBot (https://babelserver.org/rix)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="roboobot/1.* (roboo; http://wap.roboo.com; winter.pi@roboo.com)">
+  <browscapitem name="roboobot/1.* (roboo; https://wap.roboo.com; winter.pi@roboo.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="SBIder/*">
@@ -1485,10 +1485,10 @@
   <browscapitem name="Talkro Web-Shot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Tasap-image-robot/0.* (http://www.tasap.com)">
+  <browscapitem name="Tasap-image-robot/0.* (https://www.tasap.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Tecomi Bot (http://www.tecomi.com/bot.htm)">
+  <browscapitem name="Tecomi Bot (https://www.tecomi.com/bot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="TencentTraveler*">
@@ -1527,7 +1527,7 @@
   <browscapitem name="Visicom Toolbar">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Visited by http://tools.geek-tools.org">
+  <browscapitem name="Visited by https://tools.geek-tools.org">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Webclipping.com">
@@ -1566,10 +1566,10 @@
   <browscapitem name="XSpider*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="YooW!/* (?http://www.yoow.eu)">
+  <browscapitem name="YooW!/* (?https://www.yoow.eu)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="QuerySeekerSpider ( http://queryseeker.com/bot.html )">
+  <browscapitem name="QuerySeekerSpider ( https://queryseeker.com/bot.html )">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; proximic; *">
@@ -2319,7 +2319,7 @@
   <browscapitem name="Mozilla/5.0 (*Windows*) AppleWebKit/* (*khtml*like*gecko* compatible; MailDBBot/*; +https://maildb.io/bot) Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; MuckRack/*; +http://muckrack.com)">
+  <browscapitem name="Mozilla/5.0 (compatible; MuckRack/*; +https://muckrack.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla Metadata Service *">
@@ -2337,16 +2337,16 @@
   <browscapitem name="Mozilla/5.0 (compatible; Discordbot/*https://discordapp.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; RetrevoPageAnalyzer; +http://www.retrevo.com/content/about-us)">
+  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; RetrevoPageAnalyzer; +https://www.retrevo.com/content/about-us)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; MSIE *; Windows NT *; Trident/*) CrawlerProcess (http://www.PowerMapper.com)*">
+  <browscapitem name="Mozilla/5.0 (compatible; MSIE *; Windows NT *; Trident/*) CrawlerProcess (https://www.PowerMapper.com)*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; Trident/*) CrawlerProcess (http://www.PowerMapper.com)*">
+  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; Trident/*) CrawlerProcess (https://www.PowerMapper.com)*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; DomainDB-*; http://domaindb.com/crawler/)">
+  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; DomainDB-*; https://domaindb.com/crawler/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; MSIE *; Windows NT *; Clarsentia)">
@@ -2367,37 +2367,37 @@
   <browscapitem name="Mozilla/5.0 (iPhone; CPU iPhone OS * like Mac OS X) applewebkit* (*khtml*like*gecko*) Version/* Mobile/* Safari/* DareBoost">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* http://spyonweb.com spyonweb@gmail.com">
+  <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* https://spyonweb.com spyonweb@gmail.com">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit/* (*khtml*like*gecko*) YLT Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Windows NT *; compatible; BDCbot/*; +http://*.bigdatacorp.com.br/faq.aspx) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (Windows NT *; compatible; BDCbot/*; +https://*.bigdatacorp.com.br/faq.aspx) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* (compatible; aylienbot/*; +http://www.aylien.com/bot.html)">
+  <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* (compatible; aylienbot/*; +https://www.aylien.com/bot.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows NT *; rv:*) Gecko/20100101 Firefox/* Evidon (lab@evidon.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Windows; U; Windows NT *; en-US; rv:*) Gecko/* Firefox/* (BrowserSpyBot/*) (http://browserspy.dk/)">
+  <browscapitem name="Mozilla/5.0 (Windows; U; Windows NT *; en-US; rv:*) Gecko/* Firefox/* (BrowserSpyBot/*) (https://browserspy.dk/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Macintosh; Intel Mac OS X *; rv:*) Gecko/20100101 Firefox/* glindahl-cocrawler/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Macintosh; Intel Mac OS X *) applewebkit* (*khtml*like*gecko*) Version/* Instapaper/* (+http://www.instapaper.com/)">
+  <browscapitem name="Mozilla/5.0 (Macintosh; Intel Mac OS X *) applewebkit* (*khtml*like*gecko*) Version/* Instapaper/* (+https://www.instapaper.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (* like Mac OS X) applewebkit* (*khtml*like*gecko*) Version/* Mobile/* Safari/* mixed-content-scan">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; IDwhois/*; Linux; en-US; +http://idwhois.info/about)">
+  <browscapitem name="Mozilla/4.0 (compatible; IDwhois/*; Linux; en-US; +https://idwhois.info/about)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Taboolabot/*http://www.taboola.com*">
+  <browscapitem name="Mozilla/5.0 (compatible; Taboolabot/*https://www.taboola.com*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; adscanner/*">
@@ -2475,7 +2475,7 @@
   <browscapitem name="bidswitchbot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="http://www.nominet.org.uk/privacypolicy*">
+  <browscapitem name="https://www.nominet.org.uk/privacypolicy*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="nanagogo-bot*">
@@ -2652,7 +2652,7 @@
   <browscapitem name="WizenozeBot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="weborama-fetcher (+http://www.weborama.com)">
+  <browscapitem name="weborama-fetcher (+https://www.weborama.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Lore Document Collector *">
@@ -3066,10 +3066,10 @@
   <browscapitem name="WBSearchBot">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; WBSearchBot/1.1*; +http://www.warebay.com/bot.html)*">
+  <browscapitem name="Mozilla/5.0 (compatible; WBSearchBot/1.1*; +https://www.warebay.com/bot.html)*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; WBSearchBot/*; +http://www.warebay.com/bot.html)*">
+  <browscapitem name="Mozilla/5.0 (compatible; WBSearchBot/*; +https://www.warebay.com/bot.html)*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Spiderlytics">
@@ -3105,7 +3105,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; TweetedTimes Bot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; +http://tweetedtimes*">
+  <browscapitem name="Mozilla/5.0 (compatible; +https://tweetedtimes*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="ZumBot">
@@ -3678,16 +3678,16 @@
   <browscapitem name="Mozilla/5.0 (*Windows*) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* (*shrinktheweb.com*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Linux* rv:*) Gecko/* HeartRails_Capture/* (+http://capture.heartrails.com/) *">
+  <browscapitem name="Mozilla/5.0 (*Linux* rv:*) Gecko/* HeartRails_Capture/* (+https://capture.heartrails.com/) *">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) web-capture.net/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) Chromium/* Site-Shot/* (http://www.site-shot.com/) *Safari/*">
+  <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) Chromium/* Site-Shot/* (https://www.site-shot.com/) *Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) *Site-Shot/* (http://www.site-shot.com/) *Safari/*">
+  <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) *Site-Shot/* (https://www.site-shot.com/) *Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) www.HomepageScreenshot.de - Free ScreenShotService/* Safari/*">
@@ -3729,58 +3729,58 @@
   <browscapitem name="Diffbot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*CrOS*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*CrOS*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Linux*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Linux*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows* rv:*) Gecko/* Firefox/* (*Diffbot/*; +http://www.diffbot.com)">
+  <browscapitem name="Mozilla/5.0 (*Windows* rv:*) Gecko/* Firefox/* (*Diffbot/*; +https://www.diffbot.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?10*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?10*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?9*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?9*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X*) applewebkit* (*khtml*like*gecko; +http://www.diffbot.com) Chrome/* Safari/*">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X*) applewebkit* (*khtml*like*gecko; +https://www.diffbot.com) Chrome/* Safari/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="*diffbot*">
@@ -3882,7 +3882,7 @@
   <browscapitem name="TinyURL">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Rome Client (http://tinyurl.com/64t5n) Ver: 0.*">
+  <browscapitem name="Rome Client (https://tinyurl.com/64t5n) Ver: 0.*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="iVia Project">
@@ -3897,7 +3897,7 @@
   <browscapitem name="Crawly">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Crawly/1.*; +http://*/crawler.html)">
+  <browscapitem name="Mozilla/5.0 (compatible; Crawly/1.*; +https://*/crawler.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Data Mining">
@@ -4080,7 +4080,7 @@
   <browscapitem name="YodaoBot/1.* (*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Best Whois (http://www.bestwhois.net/)">
+  <browscapitem name="Best Whois (https://www.bestwhois.net/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="DNSGroup/*">
@@ -4101,10 +4101,10 @@
   <browscapitem name="WebmasterCoffee">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; WebmasterCoffee/0.7; +http://webmastercoffee.com/about)">
+  <browscapitem name="Mozilla/5.0 (compatible; WebmasterCoffee/0.7; +https://webmastercoffee.com/about)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; WebmasterCoffee/*; +http://webmastercoffee.com/about)">
+  <browscapitem name="Mozilla/5.0 (compatible; WebmasterCoffee/*; +https://webmastercoffee.com/about)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="DomainsBot">
@@ -4458,10 +4458,10 @@
   <browscapitem name="SEO &amp; Analytics">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; SEODat/0.* http://crawler.seodat.com)">
+  <browscapitem name="Mozilla/5.0 (compatible; SEODat/0.* https://crawler.seodat.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; SearchmetricsBot; http://www.searchmetrics.com/en/searchmetrics-bot/)">
+  <browscapitem name="Mozilla/5.0 (compatible; SearchmetricsBot; https://www.searchmetrics.com/en/searchmetrics-bot/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; SEOkicks-Robot*">
@@ -4560,7 +4560,7 @@
   <browscapitem name="Page Analyzer*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; http://alyze.info*">
+  <browscapitem name="Mozilla/5.0 (compatible; https://alyze.info*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows NT 6.3;compatible; Leikibot/1.0*">
@@ -4725,7 +4725,7 @@
   <browscapitem name="ScoutJet">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; ScoutJet; +http://www.scoutjet.com/)">
+  <browscapitem name="Mozilla/5.0 (compatible; ScoutJet; +https://www.scoutjet.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Girafabot">
@@ -4845,7 +4845,7 @@
   <browscapitem name="*FDSE robot*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/3.0 (compatible; Fluffy the spider; http://www.searchhippo.com/; info@searchhippo.com)">
+  <browscapitem name="Mozilla/3.0 (compatible; Fluffy the spider; https://www.searchhippo.com/; info@searchhippo.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="*Fluffy the spider*">
@@ -4866,7 +4866,7 @@
   <browscapitem name="Amfibibot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="AnswerBus (http://www.answerbus.com/)">
+  <browscapitem name="AnswerBus (https://www.answerbus.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="antibot-V*">
@@ -4878,7 +4878,7 @@
   <browscapitem name="ASPSeek/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Atrax Solutions atraxbot/0.*; http://www.atraxsolutions.com/atraxbot">
+  <browscapitem name="Atrax Solutions atraxbot/0.*; https://www.atraxsolutions.com/atraxbot">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="BigCliqueBOT/*">
@@ -4905,7 +4905,7 @@
   <browscapitem name="CatchBot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="CipinetBot (http://www.cipinet.com/bot.html)">
+  <browscapitem name="CipinetBot (https://www.cipinet.com/bot.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Cogentbot/1.?*">
@@ -4965,7 +4965,7 @@
   <browscapitem name="geniebot*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="GOFORITBOT (?http://www.goforit.com/about/?)">
+  <browscapitem name="GOFORITBOT (?https://www.goforit.com/about/?)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="GoGuidesBot/*">
@@ -4977,7 +4977,7 @@
   <browscapitem name="HenryTheMiragoRobot*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="HolmesBot (http://holmes.ge)">
+  <browscapitem name="HolmesBot (https://holmes.ge)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Hotzonu/*">
@@ -4995,7 +4995,7 @@
   <browscapitem name="Iltrovatore-?etaccio/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="InfociousBot (?http://corp.infocious.com/tech_crawler.php)">
+  <browscapitem name="InfociousBot (?https://corp.infocious.com/tech_crawler.php)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Infoseek SideWinder/*">
@@ -5004,7 +5004,7 @@
   <browscapitem name="iSEEKbot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Knight/0.? (Zook Knight; http://knight.zook.in/; knight@zook.in)">
+  <browscapitem name="Knight/0.? (Zook Knight; https://knight.zook.in/; knight@zook.in)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Kolinka Forum Search (www.kolinka.com)">
@@ -5016,7 +5016,7 @@
   <browscapitem name="LapozzBot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Linguee Bot (http://www.linguee.com/bot; bot@linguee.com)">
+  <browscapitem name="Linguee Bot (https://www.linguee.com/bot; bot@linguee.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Linknzbot*">
@@ -5040,7 +5040,7 @@
   <browscapitem name="Mozilla/4.0 (compatible; Arachmo)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; http://search.thunderstone.com/texis/websearch/about.html)">
+  <browscapitem name="Mozilla/4.0 (compatible; https://search.thunderstone.com/texis/websearch/about.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/4.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)*">
@@ -5049,10 +5049,10 @@
   <browscapitem name="Mozilla/4.0(?compatible; MSIE 6.0; Qihoo *)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.7 (compatible; WhizBang; http://www.whizbang.com/crawler)">
+  <browscapitem name="Mozilla/4.7 (compatible; WhizBang; https://www.whizbang.com/crawler)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; ActiveTouristBot*; http://www.activetourist.com)">
+  <browscapitem name="Mozilla/5.0 (compatible; ActiveTouristBot*; https://www.activetourist.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; ayna-crawler*)">
@@ -5070,7 +5070,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; CXL-FatAssANT*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; DBLBot/1.0; ?http://www.dontbuylists.com/)">
+  <browscapitem name="Mozilla/5.0 (compatible; DBLBot/1.0; ?https://www.dontbuylists.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; EARTHCOM.info/*)">
@@ -5121,13 +5121,13 @@
   <browscapitem name="ObjectsSearch/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="OOZBOT/0.20 ( http://www.setooz.com/oozbot.html ; agentname at setooz dot_com )">
+  <browscapitem name="OOZBOT/0.20 ( https://www.setooz.com/oozbot.html ; agentname at setooz dot_com )">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="OpenISearch/1.*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Pagebull http://www.pagebull.com/">
+  <browscapitem name="Pagebull https://www.pagebull.com/">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="PEERbot*">
@@ -5199,7 +5199,7 @@
   <browscapitem name="TMCrawler">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="TwengaBot-Discover (http://www.twenga.fr/bot-discover.html)">
+  <browscapitem name="TwengaBot-Discover (https://www.twenga.fr/bot-discover.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Twingly Recon">
@@ -5370,7 +5370,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; Findxbot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Flamingo_SearchEngine (+http://www.flamingosearch.com/bot)">
+  <browscapitem name="Flamingo_SearchEngine (+https://www.flamingosearch.com/bot)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Seeker v.*">
@@ -5379,7 +5379,7 @@
   <browscapitem name="omgili/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; IDBot/*; +http://www.id-search.xyz/bot.html)">
+  <browscapitem name="Mozilla/5.0 (compatible; IDBot/*; +https://www.id-search.xyz/bot.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (*Windows NT *; rv:* trendictionbot*; *) Gecko/* Firefox/*">
@@ -5580,7 +5580,7 @@
   <browscapitem name="URI::Fetch/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="DoCoMo/2.0 D903i(c100;TB;W28H20) (compatible; Hatena-Mobile-Gateway/1.2; +http://mgw.hatena.ne.jp/help)">
+  <browscapitem name="DoCoMo/2.0 D903i(c100;TB;W28H20) (compatible; Hatena-Mobile-Gateway/1.2; +https://mgw.hatena.ne.jp/help)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Hatena::Bookmark/2.00*">
@@ -5898,7 +5898,7 @@
   <browscapitem name="WordPress*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Automattic Analytics Crawler/*; http://wordpress.com/crawler/">
+  <browscapitem name="Automattic Analytics Crawler/*; https://wordpress.com/crawler/">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Linux; Android * Build/*) applewebkit* (*khtml*like*gecko* Google-Publisher-Plugin) Chrome/* Mobile Safari/*">
@@ -6306,7 +6306,7 @@
   <browscapitem name="Irish Blogs Aggregator/*1.0*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="kinjabot (http://www.kinja.com; *)">
+  <browscapitem name="kinjabot (https://www.kinja.com; *)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Net::Trackback/*">
@@ -6420,13 +6420,13 @@
   <browscapitem name="Mobitype * (compatible; Mozilla/*; MSIE *.*; Windows *)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*; Rojo *; http://www.rojo.com/corporate/help/agg; *)*">
+  <browscapitem name="Mozilla/5.0 (*; Rojo *; https://www.rojo.com/corporate/help/agg; *)*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; MSIE 6.0; Podtech Network; crawler_admin@podtech.net)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Newz Crawler *; http://www.newzcrawler.com/?)">
+  <browscapitem name="Mozilla/5.0 (compatible; Newz Crawler *; https://www.newzcrawler.com/?)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; RSSMicro.com RSS/Atom Feed Robot)">
@@ -6447,7 +6447,7 @@
   <browscapitem name="Mozilla/5.0 (*Linux*; aggregator:Rojo; *) Gecko*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*aggregator:TailRank; http://tailrank.com/robot)*">
+  <browscapitem name="Mozilla/5.0 (*aggregator:TailRank; https://tailrank.com/robot)*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 NewsFox/*">
@@ -6483,7 +6483,7 @@
   <browscapitem name="SharpReader/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Strategic Board Bot (?http://www.strategicboard.com)">
+  <browscapitem name="Strategic Board Bot (?https://www.strategicboard.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="TargetYourNews.com bot">
@@ -6492,7 +6492,7 @@
   <browscapitem name="Technoratibot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Tumblr/* RSS syndication ( http://www.tumblr.com/) (support@tumblr.com)">
+  <browscapitem name="Tumblr/* RSS syndication ( https://www.tumblr.com/) (support@tumblr.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Wizz RSS News Reader">
@@ -6603,13 +6603,13 @@
   <browscapitem name="FeedBucket/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="everyfeed-spider/* (http://www.everyfeed.com)">
+  <browscapitem name="everyfeed-spider/* (https://www.everyfeed.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="feedjira http://feedjira.com">
+  <browscapitem name="feedjira https://feedjira.com">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="TrapitAgent/0.1 (feed processor; +http://trapit.com/about)">
+  <browscapitem name="TrapitAgent/0.1 (feed processor; +https://trapit.com/about)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Nuzzel">
@@ -6618,10 +6618,10 @@
   <browscapitem name="newsbeuter/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* Specificfeeds- http://www.specificfeeds.com">
+  <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* Specificfeeds- https://www.specificfeeds.com">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (X11; U; Linux*; en-US; rv:*) Gecko/* Firefox/* Specificfeeds- http://www.specificfeeds.com">
+  <browscapitem name="Mozilla/5.0 (X11; U; Linux*; en-US; rv:*) Gecko/* Firefox/* Specificfeeds- https://www.specificfeeds.com">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="SerendeputyBot/*">
@@ -6642,7 +6642,7 @@
   <browscapitem name="Mozilla/5.0 (*Linux*; aggregator:Spinn3r (Spinn3r *); *) Gecko*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="*Spinn3r*http://spinn3r.com/robot*">
+  <browscapitem name="*Spinn3r*https://spinn3r.com/robot*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="SimplePie">
@@ -6663,16 +6663,16 @@
   <browscapitem name="BlijbolReallySimpleAggregator/2.0*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="CC Metadata Scaper http://wiki.creativecommons.org/Metadata_Scraper">
+  <browscapitem name="CC Metadata Scaper https://wiki.creativecommons.org/Metadata_Scraper">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible) GM RSS Panel">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 http://www.inclue.com; graeme@inclue.com">
+  <browscapitem name="Mozilla/5.0 https://www.inclue.com; graeme@inclue.com">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Runnk online rss reader : http://www.runnk.com/ : RSS favorites : RSS ranking : RSS aggregator*">
+  <browscapitem name="Runnk online rss reader : https://www.runnk.com/ : RSS favorites : RSS ranking : RSS aggregator*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="UniversalFeedParser/5.2*">
@@ -6720,7 +6720,7 @@
   <browscapitem name="HTML Validators">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="(HTML Validator http://www.searchengineworld.com/validator/)">
+  <browscapitem name="(HTML Validator https://www.searchengineworld.com/validator/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="FeedValidator/*">
@@ -6783,7 +6783,7 @@
   <browscapitem name="FLATARTS_FAVICO">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="HTML2JPG Blackbox, http://www.html2jpg.com">
+  <browscapitem name="HTML2JPG Blackbox, https://www.html2jpg.com">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="IconSurf/2.*">
@@ -6792,7 +6792,7 @@
   <browscapitem name="Mister PIX*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; KaloogaBot; http://www.kalooga.com/info.html?page=crawler)">
+  <browscapitem name="Mozilla/5.0 (compatible; KaloogaBot; https://www.kalooga.com/info.html?page=crawler)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="naoFavicon4IE*">
@@ -6801,13 +6801,13 @@
   <browscapitem name="pixfinder/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="rssImagesBot/0.1 (*http://herbert.groot.jebbink.nl/?app=rssImages)">
+  <browscapitem name="rssImagesBot/0.1 (*https://herbert.groot.jebbink.nl/?app=rssImages)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Web Image Collector*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="WebImages * (?http://herbert.groot.jebbink.nl/?app=WebImages?)">
+  <browscapitem name="WebImages * (?https://herbert.groot.jebbink.nl/?app=WebImages?)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="WebPix*">
@@ -6825,7 +6825,7 @@
   <browscapitem name="ZnajdzFoto/Image*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Caroline/*; +http://justpicsplease.com/caroline.php)">
+  <browscapitem name="Mozilla/5.0 (compatible; Caroline/*; +https://justpicsplease.com/caroline.php)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Twiends Crawler*">
@@ -6840,7 +6840,7 @@
   <browscapitem name="TinEye Bot">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* TinEye/* (via http://www.tineye.com/)">
+  <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* TinEye/* (via https://www.tineye.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="TinEye-bot/0.02*">
@@ -6885,7 +6885,7 @@
   <browscapitem name="Link Checkers">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="!Susie (http://www.sync2it.com/susie)">
+  <browscapitem name="!Susie (https://www.sync2it.com/susie)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="*AgentName/*">
@@ -6933,7 +6933,7 @@
   <browscapitem name="DLC/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="DocWeb Link Crawler (http://doc.php.net)">
+  <browscapitem name="DocWeb Link Crawler (https://doc.php.net)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="FavOrg">
@@ -6993,7 +6993,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; metager2-verification-bot*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/* (compatible; linktiger/*; *http://www.linktiger.com*)">
+  <browscapitem name="Mozilla/* (compatible; linktiger/*; *https://www.linktiger.com*)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows NT *) applewebkit* (*khtml*like*gecko*) Chrome/* Safari/* LinkTiger *">
@@ -7002,7 +7002,7 @@
   <browscapitem name="Mozilla/4.0 (Compatible); URLBase*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; Link Utility; http://net-promoter.com)">
+  <browscapitem name="Mozilla/4.0 (compatible; Link Utility; https://net-promoter.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/4.0 (compatible; smartBot/1.*; checking links; *)">
@@ -7032,16 +7032,16 @@
   <browscapitem name="Robozilla/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="SafariBookmarkChecker*(?http://www.coriolis.ch/)">
+  <browscapitem name="SafariBookmarkChecker*(?https://www.coriolis.ch/)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Simpy/* (Simpy; http://www.simpy.com/?ref=bot; feedback at simpy dot com)">
+  <browscapitem name="Simpy/* (Simpy; https://www.simpy.com/?ref=bot; feedback at simpy dot com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="SiteBar/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Susie (http://www.sync2it.com/bms/susie.php">
+  <browscapitem name="Susie (https://www.sync2it.com/bms/susie.php">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="URLBase/*">
@@ -7149,7 +7149,7 @@
   <browscapitem name="AWeber*Link Validator*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="PerfectMail/* (http://perfectmail.com/kb/web_probe)">
+  <browscapitem name="PerfectMail/* (https://perfectmail.com/kb/web_probe)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; SurdotlyBot/*) applewebkit* (*khtml*like*gecko*) Version/* Mobile/* Safari/*">
@@ -7176,7 +7176,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; MSIE *; Windows NT *; Trident/*) SiteCheck-sitecrawl by Siteimprove.com">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Windows NT *; Trident/*; rv *) like Gecko (compatible; Zombiebot/*; +http://www.zombiedomain.net/robot/)">
+  <browscapitem name="Mozilla/5.0 (Windows NT *; Trident/*; rv *) like Gecko (compatible; Zombiebot/*; +https://www.zombiedomain.net/robot/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows NT *; Trident/*; rv:*; topster.de Linkchecker *) like Gecko *">
@@ -7218,7 +7218,7 @@
   <browscapitem name="Microsoft">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Live (http://www.live.com/)">
+  <browscapitem name="Live (https://www.live.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="MFC Foundation Class Library*">
@@ -7314,7 +7314,7 @@
   <browscapitem name="12345*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="1st ZipCommander (Net) - http://www.zipcommander.com/">
+  <browscapitem name="1st ZipCommander (Net) - https://www.zipcommander.com/">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Ace Explorer">
@@ -7623,7 +7623,7 @@
   <browscapitem name="Mozilla/4.0 (compatible; Synapse)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; mowser; http://www.mowser.com)">
+  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *; mowser; https://www.mowser.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="YahooMailProxy*">
@@ -7710,7 +7710,7 @@
   <browscapitem name="Snapchat Proxy">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="AppEngine-Google; (+http://code.google.com/appengine; appid: s~snapchat-proxy*">
+  <browscapitem name="AppEngine-Google; (+https://code.google.com/appengine; appid: s~snapchat-proxy*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Camo Asset Proxy">
@@ -7932,7 +7932,7 @@
   <browscapitem name="http generic">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="http://arachnode.net*">
+  <browscapitem name="https://arachnode.net*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="httpclient/1.0*">
@@ -7989,7 +7989,7 @@
   <browscapitem name="JPluck/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Kapere (http://www.kapere.com)">
+  <browscapitem name="Kapere (https://www.kapere.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="LeechFTP">
@@ -8247,7 +8247,7 @@
   <browscapitem name="Crawl*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Dropcatcher.de Domain Bot +http://www.dropcatcher.de/bot.html">
+  <browscapitem name="Dropcatcher.de Domain Bot +https://www.dropcatcher.de/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="ESigil Request *">
@@ -9096,16 +9096,16 @@
   <browscapitem name="Kenjin Spider*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Kevin http://*">
+  <browscapitem name="Kevin https://*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/4.0 (compatible; ChangeDetection/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *;  http://www.changedetection.com/bot.html*">
+  <browscapitem name="Mozilla/4.0 (compatible; MSIE *; Windows NT *;  https://www.changedetection.com/bot.html*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Chirp/1.0; +http://www.binarycanary.com/chirp.cfm)">
+  <browscapitem name="Mozilla/5.0 (compatible; Chirp/1.0; +https://www.binarycanary.com/chirp.cfm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0?(compatible; UptimeRobot/2.0*">
@@ -9162,7 +9162,7 @@
   <browscapitem name="websitepulse checker/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Chirp/*; +http://www.binarycanary.com/chirp.cfm)">
+  <browscapitem name="Mozilla/5.0 (compatible; Chirp/*; +https://www.binarycanary.com/chirp.cfm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (Windows*) applewebkit* (*khtml*like*gecko*) Bromium Safari/1.0*">
@@ -9180,16 +9180,16 @@
   <browscapitem name="NewRelicPinger/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="montastic-monitor http://www.montastic.com">
+  <browscapitem name="montastic-monitor https://www.montastic.com">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; PingAdmin.Ru/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Linux*) applewebkit/* (*khtml*like*gecko*) Chrome/* Safari/* http://notifyninja.com*">
+  <browscapitem name="Mozilla/5.0 (*Linux*) applewebkit/* (*khtml*like*gecko*) Chrome/* Safari/* https://notifyninja.com*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Testomatobot/* (* +http://www.testomato.com/testomatobot) minicrawler/*">
+  <browscapitem name="Testomatobot/* (* +https://www.testomato.com/testomatobot) minicrawler/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="404 Checker*">
@@ -9240,7 +9240,7 @@
   <browscapitem name="Mozilla/5.0 (X11; Linux x86_64) applewebkit* (*khtml*like*gecko*) QtWebEngine/* Safari/* Ghost Inspector">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (Macintosh; Intel Mac OS X *) applewebkit* (*khtml*like*gecko*) Version/* Safari/*; Shoppimon Analyzer (http://www.shoppimon.com/)">
+  <browscapitem name="Mozilla/5.0 (Macintosh; Intel Mac OS X *) applewebkit* (*khtml*like*gecko*) Version/* Safari/*; Shoppimon Analyzer (https://www.shoppimon.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/3.0 (compatible; WebMon *; Windows XP)">
@@ -9564,19 +9564,19 @@
   <browscapitem name="Social Bookmarkers">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="BookmarkBase(2/;http://bookmarkbase.com)">
+  <browscapitem name="BookmarkBase(2/;https://bookmarkbase.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Cocoal.icio.us/1.0 (v43) (Mac OS X; http://www.scifihifi.com/cocoalicious)">
+  <browscapitem name="Cocoal.icio.us/1.0 (v43) (Mac OS X; https://www.scifihifi.com/cocoalicious)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*) Gecko* Firefox/2.0 OneRiot/1.0 (http://www.oneriot.com) ">
+  <browscapitem name="Mozilla/5.0 (*) Gecko* Firefox/2.0 OneRiot/1.0 (https://www.oneriot.com) ">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; FriendFeedBot/0.*; +Http://friendfeed.com/about/bot)">
+  <browscapitem name="Mozilla/5.0 (compatible; FriendFeedBot/0.*; +https://friendfeed.com/about/bot)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Twitturls; +http://twitturls.com)">
+  <browscapitem name="Mozilla/5.0 (compatible; Twitturls; +https://twitturls.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="SocialSpider-Finder/0.*">
@@ -9588,10 +9588,10 @@
   <browscapitem name="WinkBot/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; FriendFeedBot/*; +Http://friendfeed.com/about/bot)">
+  <browscapitem name="Mozilla/5.0 (compatible; FriendFeedBot/*; +https://friendfeed.com/about/bot)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Gecko* Firefox/2.0 OneRiot/1.0 (http://www.oneriot.com) ">
+  <browscapitem name="Mozilla/5.0 (*Gecko* Firefox/2.0 OneRiot/1.0 (https://www.oneriot.com) ">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Slackbot-LinkExpanding*">
@@ -9786,10 +9786,10 @@
   <browscapitem name="Gnomit">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*http://gnomit.com/) Gecko* Gnomit/1.0*">
+  <browscapitem name="Mozilla/5.0 (*https://gnomit.com/) Gecko* Gnomit/1.0*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*http://gnomit.com/) Gecko* Gnomit/*">
+  <browscapitem name="Mozilla/5.0 (*https://gnomit.com/) Gecko* Gnomit/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Translators">
@@ -9819,7 +9819,7 @@
   <browscapitem name="Automated Browscap.ini Updater. Gary contact me at serge@skycomp.ca with problems.">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Automated Browscap.ini Updater. To report issues contact us at+http://www.skycomp.ca">
+  <browscapitem name="Automated Browscap.ini Updater. To report issues contact us at+https://www.skycomp.ca">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Browscap Mirror System/1.* (browscap.giantrealm.com)">
@@ -9861,7 +9861,7 @@
   <browscapitem name="WCC Browscap Updater/0.* (PHP: file_get_contents)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Automated Browscap.ini Updater. To report issues contact us at*http://www.skycomp.ca">
+  <browscapitem name="Automated Browscap.ini Updater. To report issues contact us at*https://www.skycomp.ca">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Browser Capabilities Project - PHP Browscap/*">
@@ -9876,7 +9876,7 @@
   <browscapitem name="Code Sample Web Client">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Subtext Version 1.9* - http://subtextproject.com/ (Microsoft Windows NT 5.2.*)">
+  <browscapitem name="Subtext Version 1.9* - https://subtextproject.com/ (Microsoft Windows NT 5.2.*)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="TherapeuticResearch">
@@ -10110,13 +10110,13 @@
   <browscapitem name="FeedHub">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="FeedHub FeedDiscovery/1.0 (http://www.feedhub.com)">
+  <browscapitem name="FeedHub FeedDiscovery/1.0 (https://www.feedhub.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="FeedHub FeedFetcher/1.0 (http://www.feedhub.com)">
+  <browscapitem name="FeedHub FeedFetcher/1.0 (https://www.feedhub.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="FeedHub MetaDataFetcher/1.0 (http://www.feedhub.com)">
+  <browscapitem name="FeedHub MetaDataFetcher/1.0 (https://www.feedhub.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="BoardReader">
@@ -10404,7 +10404,7 @@
   <browscapitem name="m65bot">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="DoCoMo/2.0 P904i( m65bot/0.1; c; http://m65.jp/bot.html )">
+  <browscapitem name="DoCoMo/2.0 P904i( m65bot/0.1; c; https://m65.jp/bot.html )">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="magpie-crawler">
@@ -10419,10 +10419,10 @@
   <browscapitem name="Mahalobot">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mahalobot/1.0 (?http://www.mahalo.com/)">
+  <browscapitem name="Mahalobot/1.0 (?https://www.mahalo.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mahalobot/* (?http://www.mahalo.com/)">
+  <browscapitem name="Mahalobot/* (?https://www.mahalo.com/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Marvin">
@@ -10542,10 +10542,10 @@
   <browscapitem name="NaverBot-* (NHN Corp*naver.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Yeti/1.0*http://help.naver.com/robots/)*">
+  <browscapitem name="Yeti/1.0*https://help.naver.com/robots/)*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Yeti/*http://help.naver.com/robots/)*">
+  <browscapitem name="Yeti/*https://help.naver.com/robots/)*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; Yeti/1.1*">
@@ -10560,10 +10560,10 @@
   <browscapitem name="NaverBot Mobile">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="DoCoMo/2.0?P-04A *(compatible; Yeti-Mobile/0.1; ?http://help.naver.com/robots/)*">
+  <browscapitem name="DoCoMo/2.0?P-04A *(compatible; Yeti-Mobile/0.1; ?https://help.naver.com/robots/)*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (iPhone; CPU iPhone OS * like Mac OS X) (compatible; Yeti-Mobile/*; +http://help.naver.com/robots/)">
+  <browscapitem name="Mozilla/5.0 (iPhone; CPU iPhone OS * like Mac OS X) (compatible; Yeti-Mobile/*; +https://help.naver.com/robots/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="PagePeeker">
@@ -10599,7 +10599,7 @@
   <browscapitem name="PHP">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="httpclient (http://www.phpclasses.org/httpclient $Revision:*">
+  <browscapitem name="httpclient (https://www.phpclasses.org/httpclient $Revision:*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="PECL::HTTP/1.6*">
@@ -10860,10 +10860,10 @@
   <browscapitem name="picmole Bot">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible;picmole/1.* +http://www.picmole.com)">
+  <browscapitem name="Mozilla/5.0 (compatible;picmole/1.* +https://www.picmole.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible;picmole/* +http://www.picmole.com)">
+  <browscapitem name="Mozilla/5.0 (compatible;picmole/* +https://www.picmole.com)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="ZoomBot">
@@ -10944,10 +10944,10 @@
   <browscapitem name="*Baiduspider-mobile*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="DoCoMo/2.0 P05A(c100;TB;W24H15) (compatible; BaiduMobaider/1.0; ?http://www.baidu.jp/spider/)">
+  <browscapitem name="DoCoMo/2.0 P05A(c100;TB;W24H15) (compatible; BaiduMobaider/1.0; ?https://www.baidu.jp/spider/)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Linux*Android*) applewebkit* (*khtml*like*gecko*) Version/4.0 Mobile Safari/* (compatible; +http://www.baidu.com/search/*">
+  <browscapitem name="Mozilla/5.0 (*Linux*Android*) applewebkit* (*khtml*like*gecko*) Version/4.0 Mobile Safari/* (compatible; +https://www.baidu.com/search/*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Google Wireless Transcoder">
@@ -10983,7 +10983,7 @@
   <browscapitem name="GoogleFriendConnect*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Kml-Google; (+http://code.google.com/apis/kml)*">
+  <browscapitem name="Kml-Google; (+https://code.google.com/apis/kml)*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; Google-Youtube-Links)">
@@ -11280,10 +11280,10 @@
   <browscapitem name="AdsBot Google-Mobile for iOS">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="AdsBot?Google?Mobile (?http://www.google.com/mobile/adsbot.html) Mozilla (*CPU iPhone OS * like Mac OS X*) AppleWebKit (*khtml*like*gecko*)*">
+  <browscapitem name="AdsBot?Google?Mobile (?https://www.google.com/mobile/adsbot.html) Mozilla (*CPU iPhone OS * like Mac OS X*) AppleWebKit (*khtml*like*gecko*)*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="AdsBot?Google?Mobile (?http://www.google.com/mobile/adsbot.html) Mozilla (*CPU*OS* like Mac OS X*) AppleWebKit (*khtml*like*gecko*)*">
+  <browscapitem name="AdsBot?Google?Mobile (?https://www.google.com/mobile/adsbot.html) Mozilla (*CPU*OS* like Mac OS X*) AppleWebKit (*khtml*like*gecko*)*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (*CPU iPhone OS 9?1* like Mac OS X*) applewebkit* (*khtml*like*gecko*) Version* Mobile* Safari* (compatible; AdsBot-Google-Mobile; *">
@@ -11331,130 +11331,130 @@
   <browscapitem name="Mozilla/5.0 AppEngine-Google*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="UCWEB/*(Linux; U; Opera Mini/*) U2/* UCBrowser/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="UCWEB/*(Linux; U; Opera Mini/*) U2/* UCBrowser/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="UCWEB/*(*; U; Adr *) U2/* UCBrowser/* U2/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="UCWEB/*(*; U; Adr *) U2/* UCBrowser/* U2/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="UCWEB/*(*SymbianOS*) U2/* UCBrowser/* U2/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="UCWEB/*(*SymbianOS*) U2/* UCBrowser/* U2/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="UCWEB/*(*) U2/* UCBrowser/* U2/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="UCWEB/*(*) U2/* UCBrowser/* U2/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (*Windows NT 5.1*)* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/4.0 (*Windows NT 5.1*)* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/4.0 (*Windows*)* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/4.0 (*Windows*)* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows*)* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows*)* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 10.0*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 10.0*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.4*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.4*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?11*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?11*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Android*Mobile*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Android*Mobile*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*) Gecko/* Firefox/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*) Gecko/* Firefox/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 10.0*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 10.0*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.4*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.4*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows*) Opera * AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows*) Opera * AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 10.0*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 10.0*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.4*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.4*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.3*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.2*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.1*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 6.0*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.2*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows NT 5.1*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Windows*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Windows*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?12*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?12*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?11*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?11*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?10*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?10*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?9*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X 10?9*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Mac OS X*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Mac OS X*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Linux*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Linux*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*Linux*Android*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*Linux*Android*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?http://code.google.com/appengine; appid: *">
+  <browscapitem name="Mozilla/5.0 (*) applewebkit* (*khtml*like*gecko*)* Safari/* AppEngine-Google; (?https://code.google.com/appengine; appid: *">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="HubSpot Grader">
@@ -11529,7 +11529,7 @@
   <browscapitem name="Mozilla/5.0 (*Feedfetcher-Google*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible) Feedfetcher-Google; ( http://www.google.com/feedfetcher.html)">
+  <browscapitem name="Mozilla/5.0 (compatible) Feedfetcher-Google; ( https://www.google.com/feedfetcher.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Feedfetcher-Google*">
@@ -11874,13 +11874,13 @@
   <browscapitem name="Mozilla/5.0 (compatible; Yahoo! Slurp China*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Yahoo! DE Slurp; http://help.yahoo.com/help/us/ysearch/slurp)">
+  <browscapitem name="Mozilla/5.0 (compatible; Yahoo! DE Slurp; https://help.yahoo.com/help/us/ysearch/slurp)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Yahoo! Slurp China*;*http://misc.yahoo.com.cn/help.html)">
+  <browscapitem name="Mozilla/5.0 (compatible; Yahoo! Slurp China*;*https://misc.yahoo.com.cn/help.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Yahoo! Slurp*;*http://help.yahoo.com/help/us/ysearch/slurp*">
+  <browscapitem name="Mozilla/5.0 (compatible; Yahoo! Slurp*;*https://help.yahoo.com/help/us/ysearch/slurp*">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Yahoo! Slurp/Site Explorer">
@@ -12042,13 +12042,13 @@
   <browscapitem name="MSNBot-NewsBlogs/1.0*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="msnbot-NewsBlogs/2.* (+http://search.msn.com/msnbot.htm)">
+  <browscapitem name="msnbot-NewsBlogs/2.* (+https://search.msn.com/msnbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="msnbot-products">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="msnbot-webmaster/1.0 (*http://search.msn.com/msnbot.htm)">
+  <browscapitem name="msnbot-webmaster/1.0 (*https://search.msn.com/msnbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="MSR-ISRCCrawler">
@@ -12057,7 +12057,7 @@
   <browscapitem name="MSRBOT*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="renlifangbot/1.0 (?http://search.msn.com/msnbot.htm)">
+  <browscapitem name="renlifangbot/1.0 (?https://search.msn.com/msnbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Windows-Live-Social-Object-Extractor-Engine/1.0">
@@ -12099,16 +12099,16 @@
   <browscapitem name="Mozilla/5.0 (iPod*CPU iPhone OS * like Mac OS X*) applewebkit* (*khtml*like*gecko*) Version/* Mobile/* Safari/* (compatible; adidxbot/2.0*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; adidxbot/2.0; ?http://www.bing.com/bingbot.htm)">
+  <browscapitem name="Mozilla/5.0 (compatible; adidxbot/2.0; ?https://www.bing.com/bingbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="adidxbot/1.1 (?http://search.msn.com/msnbot.htm)">
+  <browscapitem name="adidxbot/1.1 (?https://search.msn.com/msnbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="adidxbot/2.0*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; adidxbot/*; ?http://www.bing.com/bingbot.htm)">
+  <browscapitem name="Mozilla/5.0 (compatible; adidxbot/*; ?https://www.bing.com/bingbot.htm)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="adidxbot/*">
@@ -12399,31 +12399,31 @@
   <browscapitem name="YaCy">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (sciencenet?global; *Linux*http://yacy.net/bot.html">
+  <browscapitem name="yacybot (sciencenet?global; *Linux*https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (freeworld?global; i386 Linux *http://yacy.net/bot.html">
+  <browscapitem name="yacybot (freeworld?global; i386 Linux *https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (freeworld?global; *Linux*http://yacy.net/bot.html">
+  <browscapitem name="yacybot (freeworld?global; *Linux*https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (freeworld?global; x86 Windows 7 6.1;*http://yacy.net/bot.html">
+  <browscapitem name="yacybot (freeworld?global; x86 Windows 7 6.1;*https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (freeworld?global; x86 Windows XP 5.1;*http://yacy.net/bot.html">
+  <browscapitem name="yacybot (freeworld?global; x86 Windows XP 5.1;*https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (webportal-global; x86 Windows XP 5.1;*http://yacy.net/bot.html">
+  <browscapitem name="yacybot (webportal-global; x86 Windows XP 5.1;*https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (webportal-global; *Windows*http://yacy.net/bot.html">
+  <browscapitem name="yacybot (webportal-global; *Windows*https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (i386 linux *http://yacy.net/bot.html">
+  <browscapitem name="yacybot (i386 linux *https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="yacybot (* linux *http://yacy.net/bot.html">
+  <browscapitem name="yacybot (* linux *https://yacy.net/bot.html">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="yacybot *">
@@ -12435,7 +12435,7 @@
   <browscapitem name="Mozilla/4.0 (compatible; Y!J; for robot study*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="KDDI-HI21 UP.Browser/6.0* (compatible; Y!J-SRD/1.0; http://help.yahoo.co.jp/help/jp/search/indexing/indexing-27.html)">
+  <browscapitem name="KDDI-HI21 UP.Browser/6.0* (compatible; Y!J-SRD/1.0; https://help.yahoo.co.jp/help/jp/search/indexing/indexing-27.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Mozilla/5.0 (compatible; del.icio.us-thumbnails/*KHTML/* (like Gecko)">
@@ -12633,7 +12633,7 @@
   <browscapitem name="Yahoo AdCrawler">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Yahoo!-AdCrawler;*http://help.yahoo.com/yahoo_adcrawler)">
+  <browscapitem name="Mozilla/5.0 (compatible; Yahoo!-AdCrawler;*https://help.yahoo.com/yahoo_adcrawler)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Yahoo Link Preview">
@@ -12768,13 +12768,13 @@
   <browscapitem name="Amico Alpha * (*) Gecko* AmicoAlpha/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="annotate_google; http://ponderer.org/*">
+  <browscapitem name="annotate_google; https://ponderer.org/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="CMS crawler (?http://buytaert.net/crawler/)">
+  <browscapitem name="CMS crawler (?https://buytaert.net/crawler/)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="e-SocietyRobot(http://www.yama.info.waseda.ac.jp/~yamana/es/)">
+  <browscapitem name="e-SocietyRobot(https://www.yama.info.waseda.ac.jp/~yamana/es/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="Forschungsportal/*">
@@ -12786,7 +12786,7 @@
   <browscapitem name="HooWWWer/*">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="inetbot/* (?http://www.inetbot.com/bot.html)">
+  <browscapitem name="inetbot/* (?https://www.inetbot.com/bot.html)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="JUST-CRAWLER(*)">
@@ -12801,7 +12801,7 @@
   <browscapitem name="Mozilla/5.0 (compatible; Theophrastus/*)">
     <item name="Crawler" value="true" />
   </browscapitem>
-  <browscapitem name="Mozilla/5.0 (compatible; Webscan v0.*; +http://otc.dyndns.org/webscan/)">
+  <browscapitem name="Mozilla/5.0 (compatible; Webscan v0.*; +https://otc.dyndns.org/webscan/)">
     <item name="Crawler" value="true" />
   </browscapitem>
   <browscapitem name="MQbot*">

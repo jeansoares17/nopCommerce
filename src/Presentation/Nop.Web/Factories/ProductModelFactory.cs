@@ -1557,7 +1557,7 @@ namespace Nop.Web.Factories
                 if (_webHelper.IsCurrentConnectionSecured())
                 {
                     //need to change the add this link to be https linked when the page is, so that the page doesn't ask about mixed mode when viewed in https...
-                    shareCode = shareCode.Replace("http://", "https://");
+                    shareCode = shareCode.Replace("https://", "https://");
                 }
 
                 model.PageShareCode = shareCode;

@@ -160,7 +160,7 @@ tinymce.addI18n('cs',{
 "Link...": "Odkaz...",
 "Paste or type a link": "Vlo\u017eit nebo napsat odkaz",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Zadan\u00e9 URL vypad\u00e1 jako e-mailov\u00e1 adresa. Chcete doplnit povinn\u00fd prefix mailto:?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Zadan\u00e9 URL vypad\u00e1 jako odkaz na jin\u00fd web. Chcete doplnit povinn\u00fd prefix http:\/\/?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Zadan\u00e9 URL vypad\u00e1 jako odkaz na jin\u00fd web. Chcete doplnit povinn\u00fd prefix https:\/\/?",
 "Link list": "Seznam odkaz\u016f",
 "Insert video": "Vlo\u017eit video",
 "Insert\/edit video": "Vlo\u017eit \/ upravit video",

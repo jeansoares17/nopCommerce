@@ -160,7 +160,7 @@ tinymce.addI18n('sk',{
 "Link...": "Odkaz...",
 "Paste or type a link": "Prilepte alebo nap\u00ed\u0161te odkaz",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "URL, ktor\u00fa ste vlo\u017eili je pravdepodobne emailov\u00e1 adresa. \u017del\u00e1te si prida\u0165 vy\u017eadovan\u00fa mailto: predponu?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URL adresa ktor\u00fa ste zadali vyzer\u00e1 ako extern\u00fd odkaz. Chcete prida\u0165 vy\u017eadovan\u00fa http:\/\/ predponu?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "URL adresa ktor\u00fa ste zadali vyzer\u00e1 ako extern\u00fd odkaz. Chcete prida\u0165 vy\u017eadovan\u00fa https:\/\/ predponu?",
 "Link list": "Zoznam odkazov",
 "Insert video": "Vlo\u017ei\u0165 video",
 "Insert\/edit video": "Vlo\u017ei\u0165\/upravi\u0165 video",

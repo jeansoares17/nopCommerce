@@ -423,7 +423,7 @@ namespace Nop.Web.Framework.Migrations.UpgradeTo440
                 ["Admin.ConfigurationSteps.Store.Name.Title"] = "Your store name",
                 ["Admin.ConfigurationSteps.Store.Name.Text"] = "Enter your store name in this field. It will be displayed, for instance, in the newsletter and notification emails sent to your customers.",
                 ["Admin.ConfigurationSteps.Store.Url.Title"] = "Your store URL",
-                ["Admin.ConfigurationSteps.Store.Url.Text"] = "Enter your store URL in this field. For example, it could be http://www.yourstore.com/ or https://www.yourstore.com/mystore/ if you installed your store in a subdirectory.",
+                ["Admin.ConfigurationSteps.Store.Url.Text"] = "Enter your store URL in this field. For example, it could be https://www.yourstore.com/ or https://www.yourstore.com/mystore/ if you installed your store in a subdirectory.",
                 ["Admin.ConfigurationSteps.Store.Ssl.Title"] = "Enable SSL",
                 ["Admin.ConfigurationSteps.Store.Ssl.Text"] = "If you already have an SSL certificate installed on the server, enable SSL to protect your customers’ data. <b>Do not enable it if you don’t have an SSL certificate installed yet!</b> SSL Certificates provide customer trust and improve site rankings. Note that some online payment methods require an SSL certificate installed for correct working. Read how to install and configure SSL certificates <a href=\"{0}\" target=\"_blank\">here</a>.",
                 ["Admin.ConfigurationSteps.TaxManual.Switch.Title"] = "“Fixed rate/By country” switch",
@@ -667,7 +667,7 @@ namespace Nop.Web.Framework.Migrations.UpgradeTo440
                 ["Admin.GiftCards.Fields.IsRecipientNotified.Hint"] = "Indicates whether the gift card recipient is notified by email. Click the \"Notify recipient\" button to send an email notification.",
 
                 //#4939
-                ["Admin.Configuration.Settings.GeneralCommon.Captcha.Instructions"] = "CAPTCHA is a program that can tell whether it is a human or a computer is trying to access your web site. nopCommerce uses <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> by Google. reCAPTCHA is a free service that protects your website from spam and abuse. reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep automated software from engaging in abusive activities on your site. It does this while letting your valid users pass through with ease.",
+                ["Admin.Configuration.Settings.GeneralCommon.Captcha.Instructions"] = "CAPTCHA is a program that can tell whether it is a human or a computer is trying to access your web site. nopCommerce uses <a href=\"https://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> by Google. reCAPTCHA is a free service that protects your website from spam and abuse. reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep automated software from engaging in abusive activities on your site. It does this while letting your valid users pass through with ease.",
                 ["Admin.Configuration.AppSettings.EnvironmentVariablesWarning"] = "Warning! The current setting value is overridden in environment variables",
 
                 //#16 #2909

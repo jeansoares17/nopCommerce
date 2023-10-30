@@ -160,7 +160,7 @@ tinymce.addI18n('nl',{
 "Link...": "Link...",
 "Paste or type a link": "Plak of typ een link",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "De ingegeven URL lijkt op een e-mailadres. Wil je er \"mailto:\" aan toevoegen?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "De ingegeven URL verwijst naar een extern adres. Wil je er \"http:\/\/\" aan toevoegen?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "De ingegeven URL verwijst naar een extern adres. Wil je er \"https:\/\/\" aan toevoegen?",
 "Link list": "Linklijst",
 "Insert video": "Video invoegen",
 "Insert\/edit video": "Video invoegen\/bewerken",

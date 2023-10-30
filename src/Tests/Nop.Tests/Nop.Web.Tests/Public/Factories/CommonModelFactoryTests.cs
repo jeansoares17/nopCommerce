@@ -58,7 +58,7 @@ namespace Nop.Tests.Nop.Web.Tests.Public.Factories
             model.StoreName.Should().Be("Your store name");
             model.LogoPath.Should().NotBeNullOrEmpty();
             model.LogoPath.Should()
-                .Be($"http://{NopTestsDefaults.HostIpAddress}/Themes/DefaultClean/Content/images/logo.png");
+                .Be($"https://{NopTestsDefaults.HostIpAddress}/Themes/DefaultClean/Content/images/logo.png");
         }
 
         [Test]

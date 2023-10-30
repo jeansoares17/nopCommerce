@@ -160,7 +160,7 @@ tinymce.addI18n('fa',{
 "Link...": "\u067e\u06cc\u0648\u0646\u062f...",
 "Paste or type a link": "Paste or type a link",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?",
+"The URL you entered seems to be an external link. Do you want to add the required https:\/\/ prefix?": "The URL you entered seems to be an external link. Do you want to add the required https:\/\/ prefix?",
 "Link list": "\u0641\u0647\u0631\u0633\u062a \u067e\u06cc\u0648\u0646\u062f\u0647\u0627",
 "Insert video": "\u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f\u0646 \u0641\u0627\u06cc\u0644 \u062a\u0635\u0648\u06cc\u0631\u06cc",
 "Insert\/edit video": "\u0627\u0636\u0627\u0641\u0647\/\u0648\u06cc\u0631\u0627\u06cc\u0634 \u06a9\u0631\u062f\u0646 \u0641\u0627\u06cc\u0644 \u062a\u0635\u0648\u06cc\u0631\u06cc",

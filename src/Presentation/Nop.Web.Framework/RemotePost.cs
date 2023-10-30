@@ -53,7 +53,7 @@ namespace Nop.Web.Framework
         public RemotePost(IHttpContextAccessor httpContextAccessor, IWebHelper webHelper)
         {
             Params = new NameValueCollection();
-            Url = "http://www.someurl.com";
+            Url = "https://www.someurl.com";
             Method = "post";
             FormName = "formName";
 

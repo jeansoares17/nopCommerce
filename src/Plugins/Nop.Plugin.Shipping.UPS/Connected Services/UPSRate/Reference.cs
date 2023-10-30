@@ -14,7 +14,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ErrorDetail", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ErrorDetail", Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class ErrorDetailType
     {
         
@@ -134,7 +134,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class CodeType
     {
         
@@ -190,7 +190,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementIdentifierType", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementIdentifierType", Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class ElementIdentifierType1
     {
         
@@ -230,7 +230,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementLevelInformationType", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="ElementLevelInformationType", Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class ElementLevelInformationType1
     {
         
@@ -270,7 +270,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class AdditionalCodeDescType
     {
         
@@ -310,7 +310,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class AdditionalInfoType
     {
         
@@ -350,7 +350,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
     public partial class LocationType
     {
         
@@ -406,7 +406,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class EstimatedArrivalType
     {
         
@@ -558,7 +558,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PickupType
     {
         
@@ -598,7 +598,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ServiceSummaryType
     {
         
@@ -702,7 +702,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class CodeDescriptionType
     {
         
@@ -742,7 +742,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class TimeInTransitResponseType
     {
         
@@ -846,7 +846,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class AccessorialType
     {
         
@@ -886,7 +886,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class RatedPackageType
     {
         
@@ -1039,7 +1039,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ChargesType
     {
         
@@ -1127,7 +1127,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class BillingWeightType
     {
         
@@ -1167,7 +1167,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class GuaranteedDeliveryType
     {
         
@@ -1207,7 +1207,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class TotalChargeType
     {
         
@@ -1279,7 +1279,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class TaxChargeType
     {
         
@@ -1319,7 +1319,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class HandlingUnitsResponseType
     {
         
@@ -1391,7 +1391,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class HandlingUnitsDimensionsType
     {
         
@@ -1463,7 +1463,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class AdjustedHeightType
     {
         
@@ -1503,7 +1503,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class FreightDensityRateType
     {
         
@@ -1543,7 +1543,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class TransportationChargesType
     {
         
@@ -1615,7 +1615,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class FRSShipmentType
     {
         
@@ -1671,7 +1671,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class RatedShipmentInfoType
     {
         
@@ -1711,7 +1711,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class DisclaimerType
     {
         
@@ -1751,7 +1751,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class RatedShipmentType
     {
         
@@ -2063,7 +2063,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class ElementIdentifierType
     {
         
@@ -2103,7 +2103,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class ElementLevelInformationType
     {
         
@@ -2143,7 +2143,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class DetailType
     {
         
@@ -2199,7 +2199,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(TypeName="CodeDescriptionType", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(TypeName="CodeDescriptionType", Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class CodeDescriptionType1
     {
         
@@ -2239,7 +2239,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class ResponseType
     {
         
@@ -2311,7 +2311,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class TransactionReferenceType
     {
         
@@ -2351,7 +2351,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ReturnContractServicesType
     {
         
@@ -2391,7 +2391,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class TimeInTransitRequestType
     {
         
@@ -2447,7 +2447,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PromotionalDiscountInformationType
     {
         
@@ -2487,7 +2487,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class InvoiceLineTotalType
     {
         
@@ -2527,7 +2527,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipmentRatingOptionsType
     {
         
@@ -2599,7 +2599,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ReturnServiceType
     {
         
@@ -2639,7 +2639,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ImportControlType
     {
         
@@ -2679,7 +2679,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class RestrictedArticlesType
     {
         
@@ -2799,7 +2799,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class DeliveryOptionsType
     {
         
@@ -2839,7 +2839,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PickupOptionsType
     {
         
@@ -2879,7 +2879,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipmentServiceOptionsAccessPointCODType
     {
         
@@ -2919,7 +2919,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipmentServiceOptionsType
     {
         
@@ -3263,7 +3263,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class CODType
     {
         
@@ -3303,7 +3303,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class CODAmountType
     {
         
@@ -3343,7 +3343,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class DeliveryConfirmationType
     {
         
@@ -3367,7 +3367,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class DryIceWeightType
     {
         
@@ -3407,7 +3407,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class DryIceType
     {
         
@@ -3479,7 +3479,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class HazMatChemicalRecordType
     {
         
@@ -3839,7 +3839,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class HazMatType
     {
         
@@ -3927,7 +3927,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class InsuranceValueType
     {
         
@@ -3967,7 +3967,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class InsuranceType
     {
         
@@ -4023,7 +4023,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipperDeclaredValueType
     {
         
@@ -4063,7 +4063,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class InsuredValueType
     {
         
@@ -4103,7 +4103,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PackageServiceOptionsAccessPointCODType
     {
         
@@ -4143,7 +4143,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PackageServiceOptionsType
     {
         
@@ -4343,7 +4343,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class NMFCCommodityType
     {
         
@@ -4383,7 +4383,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class CommodityType
     {
         
@@ -4423,7 +4423,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PackageWeightType
     {
         
@@ -4463,7 +4463,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class DimensionsType
     {
         
@@ -4535,7 +4535,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PackageType
     {
         
@@ -4671,7 +4671,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipmentWeightType
     {
         
@@ -4711,7 +4711,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class HandlingUnitsType
     {
         
@@ -4767,7 +4767,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class FreightDensityInfoType
     {
         
@@ -4823,7 +4823,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class FreightShipmentInformationType
     {
         
@@ -4863,7 +4863,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PayerAddressType
     {
         
@@ -4903,7 +4903,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class FRSPaymentInfoType
     {
         
@@ -4959,7 +4959,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class BillThirdPartyChargeType
     {
         
@@ -5001,7 +5001,7 @@ namespace UPSRate
     [System.Xml.Serialization.XmlIncludeAttribute(typeof(ShipToAddressType))]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class AddressType
     {
         
@@ -5089,7 +5089,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipAddressType : AddressType
     {
     }
@@ -5097,7 +5097,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipToAddressType : AddressType
     {
         
@@ -5121,7 +5121,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class BillReceiverAddressType
     {
         
@@ -5145,7 +5145,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class BillReceiverChargeType
     {
         
@@ -5185,7 +5185,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class BillShipperChargeType
     {
         
@@ -5209,7 +5209,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipmentChargeType
     {
         
@@ -5297,7 +5297,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class PaymentDetailsType
     {
         
@@ -5337,7 +5337,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class IndicationType
     {
         
@@ -5377,7 +5377,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ADRType
     {
         
@@ -5497,7 +5497,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class AlternateDeliveryAddressType
     {
         
@@ -5537,7 +5537,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipFromType
     {
         
@@ -5577,7 +5577,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipToType
     {
         
@@ -5617,7 +5617,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipperType
     {
         
@@ -5673,7 +5673,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class ShipmentType
     {
         
@@ -6033,7 +6033,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0")]
     public partial class RequestType
     {
         
@@ -6087,12 +6087,12 @@ namespace UPSRate
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
-    [System.ServiceModel.ServiceContractAttribute(Namespace="http://www.ups.com/WSDL/XOLTWS/Rate/v1.1", ConfigurationName="UPSRate.RatePortType")]
+    [System.ServiceModel.ServiceContractAttribute(Namespace="https:://www.ups.com/WSDL/XOLTWS/Rate/v1.1", ConfigurationName="UPSRate.RatePortType")]
     public interface RatePortType
     {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://onlinetools.ups.com/webservices/RateBinding/v1.1", ReplyAction="*")]
-        [System.ServiceModel.FaultContractAttribute(typeof(UPSRate.ErrorDetailType[]), Action="http://onlinetools.ups.com/webservices/RateBinding/v1.1", Name="Errors", Namespace="http://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
+        [System.ServiceModel.OperationContractAttribute(Action="https:://onlinetools.ups.com/webservices/RateBinding/v1.1", ReplyAction="*")]
+        [System.ServiceModel.FaultContractAttribute(typeof(UPSRate.ErrorDetailType[]), Action="https:://onlinetools.ups.com/webservices/RateBinding/v1.1", Name="Errors", Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Error/v1.1")]
         [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
         System.Threading.Tasks.Task<UPSRate.RateResponse1> ProcessRateAsync(UPSRate.RateRequest1 request);
     }
@@ -6100,7 +6100,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https:://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
     public partial class UPSSecurity
     {
         
@@ -6140,7 +6140,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https:://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
     public partial class UPSSecurityUsernameToken
     {
         
@@ -6180,7 +6180,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https:://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
     public partial class UPSSecurityServiceAccessToken
     {
         
@@ -6204,7 +6204,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class RateRequest
     {
         
@@ -6217,7 +6217,7 @@ namespace UPSRate
         private ShipmentType shipmentField;
         
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
         public RequestType Request
         {
             get
@@ -6276,7 +6276,7 @@ namespace UPSRate
     /// <remarks/>
     [System.CodeDom.Compiler.GeneratedCodeAttribute("dotnet-svcutil", "1.0.0.1")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1")]
     public partial class RateResponse
     {
         
@@ -6285,7 +6285,7 @@ namespace UPSRate
         private RatedShipmentType[] ratedShipmentField;
         
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
+        [System.Xml.Serialization.XmlElementAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Common/v1.0", Order=0)]
         public ResponseType Response
         {
             get
@@ -6320,10 +6320,10 @@ namespace UPSRate
     public partial class RateRequest1
     {
         
-        [System.ServiceModel.MessageHeaderAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
+        [System.ServiceModel.MessageHeaderAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0")]
         public UPSRate.UPSSecurity UPSSecurity;
         
-        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1", Order=0)]
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1", Order=0)]
         public UPSRate.RateRequest RateRequest;
         
         public RateRequest1()
@@ -6344,7 +6344,7 @@ namespace UPSRate
     public partial class RateResponse1
     {
         
-        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1", Order=0)]
+        [System.ServiceModel.MessageBodyMemberAttribute(Namespace="https:://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1", Order=0)]
         public UPSRate.RateResponse RateResponse;
         
         public RateResponse1()
@@ -6428,22 +6428,22 @@ namespace UPSRate
         {
             if ((endpointConfiguration == EndpointConfiguration.RatePort))
             {
-                System.ServiceModel.BasicHttpBinding result = new System.ServiceModel.BasicHttpBinding();
+                System.ServiceModel.Basichttps:Binding result = new System.ServiceModel.Basichttps:Binding();
                 result.MaxBufferSize = int.MaxValue;
                 result.ReaderQuotas = System.Xml.XmlDictionaryReaderQuotas.Max;
                 result.MaxReceivedMessageSize = int.MaxValue;
                 result.AllowCookies = true;
-                result.Security.Mode = System.ServiceModel.BasicHttpSecurityMode.Transport;
+                result.Security.Mode = System.ServiceModel.Basichttps:SecurityMode.Transport;
                 return result;
             }
             if ((endpointConfiguration == EndpointConfiguration.ProductionRatePort))
             {
-                System.ServiceModel.BasicHttpBinding result = new System.ServiceModel.BasicHttpBinding();
+                System.ServiceModel.Basichttps:Binding result = new System.ServiceModel.Basichttps:Binding();
                 result.MaxBufferSize = int.MaxValue;
                 result.ReaderQuotas = System.Xml.XmlDictionaryReaderQuotas.Max;
                 result.MaxReceivedMessageSize = int.MaxValue;
                 result.AllowCookies = true;
-                result.Security.Mode = System.ServiceModel.BasicHttpSecurityMode.Transport;
+                result.Security.Mode = System.ServiceModel.Basichttps:SecurityMode.Transport;
                 return result;
             }
             throw new System.InvalidOperationException(string.Format("Could not find endpoint with name \'{0}\'.", endpointConfiguration));
@@ -6453,11 +6453,11 @@ namespace UPSRate
         {
             if ((endpointConfiguration == EndpointConfiguration.RatePort))
             {
-                return new System.ServiceModel.EndpointAddress("https://wwwcie.ups.com/webservices/Rate");
+                return new System.ServiceModel.EndpointAddress("https:s://wwwcie.ups.com/webservices/Rate");
             }
             if ((endpointConfiguration == EndpointConfiguration.ProductionRatePort))
             {
-                return new System.ServiceModel.EndpointAddress("https://onlinetools.ups.com/webservices/Rate");
+                return new System.ServiceModel.EndpointAddress("https:s://onlinetools.ups.com/webservices/Rate");
             }
             throw new System.InvalidOperationException(string.Format("Could not find endpoint with name \'{0}\'.", endpointConfiguration));
         }

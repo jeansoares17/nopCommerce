@@ -64,7 +64,7 @@ export default moment.defineLocale('zh-tw', {
         lastWeek: '[上]dddd LT',
         sameElse: 'L',
     },
-    dayOfMonthOrdinalParse: /\d{1,2}(日|月|週)/,
+    dayOfMonthOrdinalParse: /\d{1,2}([日月週])/,
     ordinal: function (number, period) {
         switch (period) {
             case 'd':

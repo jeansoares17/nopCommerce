@@ -419,7 +419,7 @@ namespace Nop.Web.Factories
             });
 
             await writer.WriteStartDocumentAsync();
-            await writer.WriteStartElementAsync(prefix: null, localName: "sitemapindex", ns: "http://www.sitemaps.org/schemas/sitemap/0.9");
+            await writer.WriteStartElementAsync(prefix: null, localName: "sitemapindex", ns: "https://www.sitemaps.org/schemas/sitemap/0.9");
 
             //write URLs of all available sitemaps
             var urlHelper = GetUrlHelper();
@@ -455,11 +455,11 @@ namespace Nop.Web.Factories
             });
 
             await writer.WriteStartDocumentAsync();
-            await writer.WriteStartElementAsync(prefix: null, localName: "urlset", ns: "http://www.sitemaps.org/schemas/sitemap/0.9");
+            await writer.WriteStartElementAsync(prefix: null, localName: "urlset", ns: "https://www.sitemaps.org/schemas/sitemap/0.9");
             await writer.WriteAttributeStringAsync(prefix: "xsi", "schemaLocation",
-                "http://www.w3.org/2001/XMLSchema-instance",
-                "http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd");
-            await writer.WriteAttributeStringAsync(prefix: "xmlns", "xhtml", null, "http://www.w3.org/1999/xhtml");
+                "https://www.w3.org/2001/XMLSchema-instance",
+                "https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd https://www.w3.org/1999/xhtml https://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd");
+            await writer.WriteAttributeStringAsync(prefix: "xmlns", "xhtml", null, "https://www.w3.org/1999/xhtml");
 
             //write URLs from list to the sitemap
             foreach (var sitemapUrl in sitemapUrls)
@@ -522,7 +522,7 @@ namespace Nop.Web.Factories
 
         /// <summary>
         /// This will build an XML sitemap for better index with search engines.
-        /// See http://en.wikipedia.org/wiki/Sitemaps for more information.
+        /// See https://en.wikipedia.org/wiki/Sitemaps for more information.
         /// </summary>
         /// <param name="fullPath">The path and name of the sitemap file</param>
         /// <param name="id">Sitemap identifier</param>
@@ -820,7 +820,7 @@ namespace Nop.Web.Factories
         /// <summary>
         /// Prepare sitemap model.
         /// This will build an XML sitemap for better index with search engines.
-        /// See http://en.wikipedia.org/wiki/Sitemaps for more information.
+        /// See https://en.wikipedia.org/wiki/Sitemaps for more information.
         /// </summary>
         /// <param name="id">Sitemap identifier</param>
         /// <returns>

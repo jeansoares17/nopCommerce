@@ -160,7 +160,7 @@ tinymce.addI18n('sl_SI',{
 "Link...": "Povezava ...",
 "Paste or type a link": "Prilepite ali vnesite povezavo",
 "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Vne\u0161eni URL predstavlja e-po\u0161tni naslov. Ali \u017eelite dodati potrebno \"mailto:\" predpono?",
-"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Vne\u0161eni URL predstavlja zunanjo povezavo. Ali \u017eelite dodati \"http:\/\/\" predpono?",
+"The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?": "Vne\u0161eni URL predstavlja zunanjo povezavo. Ali \u017eelite dodati \"https:\/\/\" predpono?",
 "Link list": "Seznam povezav",
 "Insert video": "Vstavi video",
 "Insert\/edit video": "Vstavi\/uredi video",

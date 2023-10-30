@@ -121,11 +121,11 @@ namespace Nop.Tests.Nop.Services.Tests.Affiliates
         public async Task CanGenerateUrl()
         {
             var url = await _affiliateService.GenerateUrlAsync(_activeAffiliate1);
-            url.Should().Be($"http://{NopTestsDefaults.HostIpAddress}/?{NopAffiliateDefaults.AffiliateQueryParameter}={_activeAffiliate1.FriendlyUrlName}");
+            url.Should().Be($"https://{NopTestsDefaults.HostIpAddress}/?{NopAffiliateDefaults.AffiliateQueryParameter}={_activeAffiliate1.FriendlyUrlName}");
 
             _notActiveDeletedAffiliate.FriendlyUrlName = string.Empty;
             url = await _affiliateService.GenerateUrlAsync(_notActiveDeletedAffiliate);
-            url.Should().Be($"http://{NopTestsDefaults.HostIpAddress}/?{NopAffiliateDefaults.AffiliateIdQueryParameter}={_notActiveDeletedAffiliate.Id}");
+            url.Should().Be($"https://{NopTestsDefaults.HostIpAddress}/?{NopAffiliateDefaults.AffiliateIdQueryParameter}={_notActiveDeletedAffiliate.Id}");
         }
 
         [Test]

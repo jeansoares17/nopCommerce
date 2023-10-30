@@ -17,7 +17,7 @@ namespace Nop.Services.Html
         /// <summary>
         /// The regular expression used to parse links.
         /// </summary>
-        private static readonly Regex _regex = new("((http://|https://|www\\.)([A-Z0-9.\\-]{1,})\\.[0-9A-Z?;~&\\(\\)#,=\\-_\\./\\+]{2,})", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+        private static readonly Regex _regex = new("((https://|https://|www\\.)([A-Z0-9.\\-]{1,})\\.[0-9A-Z?;~&\\(\\)#,=\\-_\\./\\+]{2,})", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
         #endregion
 
@@ -101,7 +101,7 @@ namespace Nop.Services.Html
             {
                 text = text.Replace(match.Value,
                     !match.Value.Contains("://")
-                        ? string.Format(info, LINK, "http://", match.Value, ShortenUrl(match.Value, MAX_LENGTH))
+                        ? string.Format(info, LINK, "https://", match.Value, ShortenUrl(match.Value, MAX_LENGTH))
                         : string.Format(info, LINK, string.Empty, match.Value, ShortenUrl(match.Value, MAX_LENGTH)));
             }
 
