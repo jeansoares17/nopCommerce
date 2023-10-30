@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Presentation/Nop.Web/wwwroot/lib_npm/cldr-data/main/main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="samples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Presentation/Nop.Web/wwwroot/images/samples/product_NightVision_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/Presentation/Nop.Web/wwwroot/images/samples/product_ScienceAndFaith_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/Presentation/Nop.Web/wwwroot/images/samples/product_IfYouWait_1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

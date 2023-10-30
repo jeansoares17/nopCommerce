@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="favicon_package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Presentation/Nop.Web/wwwroot/icons/samples/favicon_package.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
