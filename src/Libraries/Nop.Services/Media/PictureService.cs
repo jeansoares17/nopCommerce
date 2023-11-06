@@ -371,7 +371,7 @@ namespace Nop.Services.Media
         protected virtual byte[] ImageResize(SKBitmap image, SKEncodedImageFormat format, int targetSize)
         {
             if (image == null)
-                throw new ArgumentNullException("Image is null");
+                throw new ArgumentNullException("image");
 
             float width, height;
             if (image.Height > image.Width)

@@ -1413,7 +1413,6 @@ namespace Nop.Web.Areas.Admin.Controllers
                     }
 
                     break;
-                case "week":
                 default:
                     //week statistics
                     var weekAgoDt = nowDt.AddDays(-7);

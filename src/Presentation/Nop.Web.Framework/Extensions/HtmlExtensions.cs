@@ -84,7 +84,7 @@ namespace Nop.Web.Framework.Extensions
             //default tab
             var standardTabName = $"{name}-standard-tab";
             var standardTabSelected = string.IsNullOrEmpty(tabNameToSelect) || standardTabName == tabNameToSelect;
-            tabStrip.AppendLine(string.Format("<li class=\"nav-item\">"));
+            tabStrip.AppendLine("<li class=\"nav-item\">");
             if (standardTabSelected)
             {
                 tabStrip.AppendLine($"<a class=\"nav-link active\" data-tab-name=\"{standardTabName}\" href=\"#{standardTabName}\" data-toggle=\"pill\" role=\"tab\" aria-selected=\"false\">{await localizationService.GetResourceAsync("Admin.Common.Standard")}</a>");
@@ -103,7 +103,7 @@ namespace Nop.Web.Framework.Extensions
                     throw new Exception("Language cannot be loaded");
 
                 var localizedTabName = $"{name}-{language.Id}-tab";
-                tabStrip.AppendLine(string.Format("<li class=\"nav-item\">"));
+                tabStrip.AppendLine("<li class=\"nav-item\">");
                 var iconUrl = urlHelper.Content("~/images/flags/" + language.FlagImageFileName);
                 var active = localizedTabName == tabNameToSelect ? "active" : null;
                 tabStrip.AppendLine($"<a class=\"nav-link {active}\" data-tab-name=\"{localizedTabName}\" href=\"#{localizedTabName}\" data-toggle=\"pill\" role=\"tab\" aria-selected=\"false\"><img alt='' src='{iconUrl}'>{WebUtility.HtmlEncode(language.Name)}</a>");

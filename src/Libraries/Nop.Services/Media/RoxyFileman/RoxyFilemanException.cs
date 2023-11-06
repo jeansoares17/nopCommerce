@@ -19,10 +19,6 @@ namespace Nop.Services.Media.RoxyFileman
 
         #region Ctor
 
-        private RoxyFilemanException() : base()
-        {
-        }
-
         /// <summary>
         /// Initializes a new instance of the RoxyFilemanException
         /// </summary>

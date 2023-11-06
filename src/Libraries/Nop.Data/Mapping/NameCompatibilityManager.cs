@@ -72,7 +72,7 @@ namespace Nop.Data.Mapping
             if (!_isInitialized)
                 Initialize();
 
-            return _tableNames.ContainsKey(type) ? _tableNames[type] : type.Name;
+            return _tableNames.TryGetValue(type, out var name) ? name : type.Name;
         }
 
         /// <summary>

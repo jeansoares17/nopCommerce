@@ -2719,7 +2719,6 @@ namespace Nop.Services.ExportImport
         public virtual async Task ImportOrdersFromXlsxAsync(Stream stream)
         {
             using var workbook = new XLWorkbook(stream);
-            var downloadedFiles = new List<string>();
 
             (var metadata, var worksheet) = await PrepareImportOrderDataAsync(workbook);
 
@@ -2778,7 +2777,7 @@ namespace Nop.Services.ExportImport
                     switch (property.PropertyName)
                     {
                         case "StoreId":
-                            if (await _storeService.GetStoreByIdAsync(property.IntValue) is Store orderStore)
+                            if (await _storeService.GetStoreByIdAsync(property.IntValue) is Store)
                                 order.StoreId = property.IntValue;
                             else
                                 order.StoreId = (await _storeContext.GetCurrentStoreAsync())?.Id ?? 0;

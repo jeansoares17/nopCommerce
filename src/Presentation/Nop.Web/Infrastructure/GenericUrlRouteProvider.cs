@@ -55,11 +55,11 @@ namespace Nop.Web.Infrastructure
             }
 
             endpointRouteBuilder.MapControllerRoute(name: NopRoutingDefaults.RouteName.Generic.GenericUrl,
-                pattern: $"{{{NopRoutingDefaults.RouteValue.SeName}}}",
+                pattern: $"{{NopRoutingDefaults.RouteValue.SeName}}",
                 defaults: new { controller = "Common", action = "GenericUrl" });
 
             endpointRouteBuilder.MapControllerRoute(name: NopRoutingDefaults.RouteName.Generic.GenericCatalogUrl,
-                pattern: $"{{{NopRoutingDefaults.RouteValue.CatalogSeName}}}/{{{NopRoutingDefaults.RouteValue.SeName}}}",
+                pattern: $"{{NopRoutingDefaults.RouteValue.CatalogSeName}}/{{NopRoutingDefaults.RouteValue.SeName}}",
                 defaults: new { controller = "Common", action = "GenericUrl" });
 
             //routes for entities that support catalog path and slug (e.g. '/category-seo-name/product-seo-name')

@@ -65,7 +65,7 @@ namespace Nop.Web.Framework.Factories
         /// <param name="availableDiscounts">List of all available discounts</param>
         /// <param name="ignoreAppliedDiscounts">Whether to ignore existing applied discounts</param>
         /// <returns>A task that represents the asynchronous operation</returns>
-        public virtual async Task<TModel> PrepareModelDiscountsAsync<TModel, TMapping>(TModel model, IDiscountSupported<TMapping> entity,
+        public virtual async Task<TModel> PrepareModelDiscountsAsync<TModel, TMapping>(TModel model, IDiscountSupported entity,
             IList<Discount> availableDiscounts, bool ignoreAppliedDiscounts)
             where TModel : IDiscountSupportedModel where TMapping : DiscountMapping
         {

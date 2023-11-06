@@ -600,7 +600,7 @@ namespace Nop.Plugin.Misc.Sendinblue.Controllers
             sendinblueSettings.UseMarketingAutomation = model.UseMarketingAutomation;
             await _settingService.SaveSettingOverridablePerStoreAsync(sendinblueSettings, settings => settings.UseMarketingAutomation, model.UseMarketingAutomation_OverrideForStore, storeId, false);
 
-            var (accountInfo, marketingAutomationEnabled, maKey, accountErrors) = await _sendinblueEmailManager.GetAccountInfoAsync();
+            var (_, _, maKey, accountErrors) = await _sendinblueEmailManager.GetAccountInfoAsync();
             sendinblueSettings.MarketingAutomationKey = maKey;
             if (!string.IsNullOrEmpty(accountErrors))
                 _notificationService.ErrorNotification($"{SendinblueDefaults.NotificationMessage} {accountErrors}");

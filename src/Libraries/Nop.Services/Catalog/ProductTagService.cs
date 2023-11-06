@@ -258,8 +258,8 @@ namespace Nop.Services.Catalog
         public virtual async Task<int> GetProductCountByProductTagIdAsync(int productTagId, int storeId, bool showHidden = false)
         {
             var dictionary = await GetProductCountAsync(storeId, showHidden);
-            if (dictionary.ContainsKey(productTagId))
-                return dictionary[productTagId];
+            if (dictionary.TryGetValue(productTagId, out var id))
+                return id;
 
             return 0;
         }

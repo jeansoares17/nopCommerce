@@ -230,12 +230,12 @@ namespace Nop.Services.Discounts
         /// Gets discounts applied to entity
         /// </summary>
         /// <typeparam name="T">Type based on <see cref="DiscountMapping" /></typeparam>
-        /// <param name="entity">Entity which supports discounts (<see cref="IDiscountSupported{T}" />)</param>
+        /// <param name="entity">Entity which supports discounts (<see cref="IDiscountSupported" />)</param>
         /// <returns>
         /// A task that represents the asynchronous operation
         /// The task result contains the list of discounts
         /// </returns>
-        public virtual async Task<IList<Discount>> GetAppliedDiscountsAsync<T>(IDiscountSupported<T> entity) where T : DiscountMapping
+        public virtual async Task<IList<Discount>> GetAppliedDiscountsAsync<T>(IDiscountSupported entity) where T : DiscountMapping
         {
             var discountMappingRepository = EngineContext.Current.Resolve<IRepository<T>>();
 

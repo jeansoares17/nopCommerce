@@ -203,8 +203,8 @@ namespace Nop.Services.Catalog
                 foreach (var productAttributeValue in productAttributeValues)
                 {
                     var attributeValuePictureId = 0;
-                    if (originalNewPictureIdentifiers.ContainsKey(productAttributeValue.PictureId)) 
-                        attributeValuePictureId = originalNewPictureIdentifiers[productAttributeValue.PictureId];
+                    if (originalNewPictureIdentifiers.TryGetValue(productAttributeValue.PictureId, out var identifier)) 
+                        attributeValuePictureId = identifier;
 
                     var attributeValueCopy = new ProductAttributeValue
                     {

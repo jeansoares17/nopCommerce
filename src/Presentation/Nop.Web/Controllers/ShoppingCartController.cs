@@ -1176,7 +1176,7 @@ namespace Nop.Web.Controllers
                 //try to get a new quantity for the item, set 0 for items to remove
                 NewQuantity = itemIdsToRemove.Contains(item.Id) ? 0 : int.TryParse(form[$"itemquantity{item.Id}"], out var quantity) ? quantity : item.Quantity,
                 Item = item,
-                Product = products.ContainsKey(item.ProductId) ? products[item.ProductId] : null
+                Product = products.TryGetValue(item.ProductId, out var product) ? product : null
             }).Where(item => item.NewQuantity != item.Item.Quantity);
 
             //order cart items

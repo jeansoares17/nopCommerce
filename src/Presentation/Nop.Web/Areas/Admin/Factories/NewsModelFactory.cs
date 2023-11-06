@@ -278,7 +278,7 @@ namespace Nop.Web.Areas.Admin.Factories
                     }
 
                     commentModel.CommentText = _htmlFormatter.FormatText(newsComment.CommentText, false, true, false, false, false, false);
-                    commentModel.StoreName = storeNames.ContainsKey(newsComment.StoreId) ? storeNames[newsComment.StoreId] : "Deleted";
+                    commentModel.StoreName = storeNames.TryGetValue(newsComment.StoreId, out var name) ? name : "Deleted";
 
                     return commentModel;
                 });
